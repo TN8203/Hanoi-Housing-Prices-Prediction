@@ -28,7 +28,7 @@ Tân Mai,Hoàng Văn Thụ,Hoàng Mai,Nội thành,Tin thường,38105084,107.8,
 Pháp Vân,Yên Sở,Hoàng Mai,Nội thành,Tin thường,39224376,120.0,Thỏa thuận,"5,5 m",,,Nam,3.0,,,Sổ đỏ,,Biệt thự,0,0,0,1,,0,0,0,1,0,0,0,0,1,0,0
 Yên Lộ,Yên Nghĩa,Hà Đông,Nội thành,Tin thường,39183806,100.0,Thỏa thuận,5 m,"11,5 m",Đông - Nam,Đông - Nam,,,,Sổ đỏ,Không nội thất,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Nguyễn Cảnh Dị,Đại Kim,Hoàng Mai,Nội thành,Tin thường,38875905,55.0,Thỏa thuận,"4,2 m",6 m,,,5.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,1,0,0,1,0,1,1,1,0,0,0
-Đào Tấn,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39163133,45.0,Thỏa thuận,,,,,,7.0,,,,Nhà riêng,0,0,0,0,,0,0,1,0,0,0,1,0,0,0,0
+Đào Tấn,Liễu Giai,Ba Đình,Nội thành,Tin thường,39163133,45.0,Thỏa thuận,,,,,,7.0,,,,Nhà riêng,0,0,0,0,,0,0,1,0,0,0,1,0,0,0,0
 ,Sài Sơn,Quốc Oai,Ngoại thành,Tin thường,36929424,180.0,Thỏa thuận,,,,,,,,,,Nhà riêng,1,1,0,1,,0,0,0,0,0,0,0,0,0,0,0
 Lạc Long Quân,Xuân La,Tây Hồ,Nội thành,Tin thường,38072538,76.7,Thỏa thuận,"5,7 m",,,Nam,,,,Sổ đỏ/ Sổ hồng,,Chung cư mini,1,1,0,0,,0,1,0,0,1,0,0,0,0,0,0
 ,La Khê,Hà Đông,Nội thành,Tin thường,39101720,227.8,Thỏa thuận,,,,,,,,- Sổ đỏ chính chủ!,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
@@ -85,7 +85,7 @@ Hoàng Tăng Bí,Thụy Phương,Bắc Từ Liêm,Nội thành,Tin thường,388
 ,,Hà Đông,Nội thành,Tin thường,39206894,80.0,Thỏa thuận,4 m,"13,5 m",Đông - Bắc,Tây - Nam,4.0,4.0,3.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,1,1,1,0,,0,1,0,1,0,0,0,0,1,0,0
 Trần Khát Chân,Thanh Nhàn,Hai Bà Trưng,Nội thành,Tin thường,39202735,42.0,Thỏa thuận,"4,5 m",,,,5.0,3.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,1,1,0,,0,1,1,0,0,0,1,0,1,0,0
 Lê Trọng Tấn,An Khánh,Hoài Đức,Ngoại thành,Tin thường,39218443,200.0,Thỏa thuận,"10,5 m",13 m,,Nam,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0
-Nguyễn Chí Thanh,Thành Công,Ba Đình,Ngoại thành,Tin thường,39188866,45.0,Thỏa thuận,,,,,7.0,5.0,5.0,,,Nhà riêng,1,0,0,1,,0,0,0,1,1,0,1,1,0,1,0
+Nguyễn Chí Thanh,Thành Công,Ba Đình,Nội thành,Tin thường,39188866,45.0,Thỏa thuận,,,,,7.0,5.0,5.0,,,Nhà riêng,1,0,0,1,,0,0,0,1,1,0,1,1,0,1,0
 ,Xuân Tảo,Bắc Từ Liêm,Nội thành,Tin thường,39024422,259.0,Thỏa thuận,34 m,,,,4.0,,,Sổ đỏ/ Sổ hồng,Không nội thất,Biệt thự,0,0,0,0,,0,0,0,1,0,0,0,1,0,1,0
 70,Đại Mỗ,Nam Từ Liêm,Nội thành,Tin thường,39104223,120.0,Thỏa thuận,6 m,,,,,,,,,Biệt thự,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0
 Tố Hữu,Dương Nội,Hà Đông,Nội thành,Tin thường,37722918,250.0,Thỏa thuận,12 m,,,Đông - Nam,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,,Biệt thự,1,1,0,0,,0,1,0,1,1,0,0,0,0,0,0
@@ -210,7 +210,7 @@ Quốc lộ 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,39064632,100
 Láng,Láng Hạ,Đống Đa,Nội thành,Tin thường,39189755,60.0,Thỏa thuận,,,,,3.0,3.0,2.0,Sổ đỏ/ Sổ hồng,Cơ bản,Chung cư mini,0,0,0,0,,0,0,0,0,0,0,0,1,1,0,0
 Tố Hữu,La Khê,Hà Đông,Nội thành,Tin thường,37687393,90.0,Thỏa thuận,,,,,4.0,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Phúc Diễn,Bắc Từ Liêm,Nội thành,Tin thường,38375024,70.0,Thỏa thuận,"4,5 m",12 m,,Tây - Nam,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng.,,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,1,0,0,0,0
-Kim Mã,Kim Mã,Ba Đình,Ngoại thành,Tin thường,39208956,70.0,Thỏa thuận,"11,5 m",8 m,,,2.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,1,,0,0,0,0,1,1,1,0,0,1,0
+Kim Mã,Kim Mã,Ba Đình,Nội thành,Tin thường,39208956,70.0,Thỏa thuận,"11,5 m",8 m,,,2.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,1,,0,0,0,0,1,1,1,0,0,1,0
 Quốc lộ 32,Trạm Trôi,Hoài Đức,Ngoại thành,Tin thường,36503854,222.0,Thỏa thuận,12 m,,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Tố Hữu,Vạn Phúc,Hà Đông,Nội thành,Tin thường,38824490,104.0,Thỏa thuận,,40 m,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,,1,0,0,1,0,0,0,0,1,1,0
 Lê Trọng Tấn,An Khánh,Hoài Đức,Ngoại thành,Tin thường,31497567,160.0,Thỏa thuận,8 m,,,Đông,6.0,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,1,0,0,1
@@ -298,7 +298,7 @@ Lê Quang Đạo,Phú Đô,Nam Từ Liêm,Nội thành,Tin thường,39233781,33
 Lê Trọng Tấn,La Khê,Hà Đông,Nội thành,Tin thường,38717012,255.0,Thỏa thuận,7 m,10 m,Tây - Nam,Đông - Nam,4.0,5.0,5.0,Sổ đỏ,Cơ bản,Biệt thự,0,0,0,0,,0,1,0,0,0,0,1,0,0,1,1
 Quốc lộ 32,Trạm Trôi,Hoài Đức,Ngoại thành,Tin thường,37942524,288.0,Thỏa thuận,,12 m,,Tây - Bắc,5.0,,,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Kiến Hưng,Hà Đông,Nội thành,Tin VIP Vàng,39223254,96.4,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,1,0,0,0,0,1,0
-Vạn Phúc,Kim Mã,Ba Đình,Ngoại thành,Tin VIP Bạc,36544173,38.0,Thỏa thuận,"3,4 m",,Nam,Nam,5.0,,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,Rộng,0,0,0,1,0,1,1,0,0,0,0
+Vạn Phúc,Kim Mã,Ba Đình,Nội thành,Tin VIP Bạc,36544173,38.0,Thỏa thuận,"3,4 m",,Nam,Nam,5.0,,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,Rộng,0,0,0,1,0,1,1,0,0,0,0
 Lê Quang Đạo,Phú Đô,Nam Từ Liêm,Nội thành,Tin thường,38969110,53.0,Thỏa thuận,,,,,4.0,6.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Quán Gánh,Duyên Thái,Thường Tín,Ngoại thành,Tin thường,39183599,75.0,Thỏa thuận,4 m,5 m,,Đông - Nam,3.0,5.0,3.0,Sổ đỏ rõ ràng pháp lý đầy đủ,,Nhà riêng,1,0,0,0,,0,0,0,0,0,1,1,0,0,0,0
 Cổ Linh,Thạch Bàn,Long Biên,Nội thành,Tin thường,39180042,60.0,Thỏa thuận,5 m,6 m,,,6.0,4.0,4.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,1,0,0,1,0,0,0,1,1,1,1
@@ -338,7 +338,7 @@ Tố Hữu,Vạn Phúc,Hà Đông,Nội thành,Tin thường,39163149,87.0,Thỏ
 phố Chùa Thông,Quang Trung,Sơn Tây,Ngoại thành,Tin thường,38206371,75.0,Thỏa thuận,5 m,"17,5 m",Đông - Nam,Đông - Bắc,4.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,1,0,0,,0,0,0,1,0,0,0,0,0,0,0
 Láng Hòa Lạc,An Khánh,Hoài Đức,Ngoại thành,Tin VIP Bạc,36326261,345.75,Thỏa thuận,"15,7 m",13 m,,Đông - Bắc,,,,Hợp đồng mua bán,Xây thô và hoàn thiện mặt ngoài,Biệt thự,0,0,0,1,,0,0,0,0,1,0,0,0,0,0,0
 ,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,39207885,62.0,Thỏa thuận,4 m,,,,5.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,1,0,1,1,1,1,0,0
-Liễu Giai,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39125664,136.0,Thỏa thuận,8 m,4 m,,,3.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,1,,0,0,0,1,1,0,1,0,0,0,0
+Liễu Giai,Liễu Giai,Ba Đình,Nội thành,Tin thường,39125664,136.0,Thỏa thuận,8 m,4 m,,,3.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,1,,0,0,0,1,1,0,1,0,0,0,0
 ,Đông Ngạc,Bắc Từ Liêm,Nội thành,Tin thường,35743699,136.0,Thỏa thuận,,40 m,,,5.0,5.0,5.0,Hợp đồng mua bán,,Biệt thự,0,0,0,0,,0,1,0,0,0,0,0,0,0,1,0
 ,Đông Anh,Đông Anh,Ngoại thành,Tin thường,38366148,70.0,Thỏa thuận,,,,Đông - Nam,5.0,6.0,6.0,Sổ đỏ/ Sổ hồng,,Biệt thự,1,0,0,1,,0,0,0,1,0,0,0,0,0,0,1
 ,Đại Kim,Hoàng Mai,Nội thành,Tin thường,33221800,75.0,Thỏa thuận,,,,,,,,,,Biệt thự,1,1,1,1,,0,0,0,0,1,0,0,0,0,0,1
@@ -532,7 +532,7 @@ Nguyễn Xuân Khoát,Xuân Đỉnh,Bắc Từ Liêm,Nội thành,Tin thường,
 Bằng A,Hoàng Liệt,Hoàng Mai,Nội thành,Tin VIP Bạc,38976549,80.0,Thỏa thuận,,,,,,,,,,Biệt thự,1,0,0,1,,0,0,0,0,1,0,1,0,0,1,0
 Minh Khai,Minh Khai,Hai Bà Trưng,Nội thành,Tin thường,39165173,33.0,Thỏa thuận,"4,8 m",,,,5.0,,,,,Nhà riêng,0,0,0,0,Rộng,0,1,1,1,0,0,1,0,0,1,0
 Quốc lộ 32,Trạm Trôi,Hoài Đức,Ngoại thành,Tin thường,39200411,212.0,Thỏa thuận,,,,,5.0,10.0,8.0,Sổ đỏ/ Sổ hồng,,Biệt thự,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0
-Kim Mã,Ngọc Khánh,Ba Đình,Ngoại thành,Tin thường,38129464,40.0,Thỏa thuận,"3,2 m",4 m,,,4.0,6.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,0,0,0,1,Nhỏ,0,1,0,1,1,1,1,1,0,0,0
+Kim Mã,Ngọc Khánh,Ba Đình,Nội thành,Tin thường,38129464,40.0,Thỏa thuận,"3,2 m",4 m,,,4.0,6.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,0,0,0,1,Nhỏ,0,1,0,1,1,1,1,1,0,0,0
 Ngô Gia Tự,Việt Hưng,Long Biên,Nội thành,Tin thường,39067978,55.0,Thỏa thuận,5 m,7 m,,,5.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,1,0,1,0,1,1,0,1,0,1
 Tố Hữu,Dương Nội,Hà Đông,Nội thành,Tin thường,38991947,300.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Lê Trọng Tấn,Khương Mai,Thanh Xuân,Nội thành,Tin thường,39205967,90.0,Thỏa thuận,,,,,6.0,,,,,Nhà riêng,0,0,0,0,,0,0,1,0,0,0,1,1,1,0,0
@@ -588,7 +588,7 @@ Lê Trọng Tấn,Khương Mai,Thanh Xuân,Nội thành,Tin thường,39205660,6
 ,Dương Nội,Hà Đông,Nội thành,Tin thường,38683027,180.0,Thỏa thuận,,,,Đông - Nam,,,,Hợp đồng mua bán,,Biệt thự,1,0,1,1,,0,0,0,0,1,0,0,0,0,0,1
 ,Trâu Quỳ,Gia Lâm,Ngoại thành,Tin thường,37770243,121.0,Thỏa thuận,,"17,5 m",Đông - Nam,Đông - Nam,5.0,5.0,4.0,Hợp đồng mua bán,Không nội thất,Biệt thự,0,0,0,0,,1,0,0,1,1,0,0,0,1,1,1
 Quốc lộ 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,39112043,90.0,Thỏa thuận,,,,,5.0,,,Hợp đồng mua bán,,Biệt thự,0,1,0,0,,0,0,0,0,0,0,0,0,1,0,0
-Đội Cấn,Đội Cấn,Ba Đình,Ngoại thành,Tin thường,39010536,100.0,Thỏa thuận,6 m,7 m,,,5.0,11.0,8.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1
+Đội Cấn,Đội Cấn,Ba Đình,Nội thành,Tin thường,39010536,100.0,Thỏa thuận,6 m,7 m,,,5.0,11.0,8.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1
 ,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,37764468,320.0,Thỏa thuận,35 m,20 m,Tây - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,1,,0,1,0,0,0,0,0,0,0,1,0
 Ngọc Hồi,Văn Điển,Thanh Trì,Ngoại thành,Tin thường,38707824,60.0,Thỏa thuận,,,,,4.0,4.0,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,1,0,0,Nhỏ,1,0,0,1,0,0,0,0,0,1,0
 Tỉnh lộ 179,Kiêu Kỵ,Gia Lâm,Ngoại thành,Tin thường,39146607,90.0,Thỏa thuận,"4,5 m",9 m,,,3.0,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
@@ -673,7 +673,7 @@ Lạc Long Quân,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,39221571,36
 Lê Trọng Tấn,An Khánh,Hoài Đức,Ngoại thành,Tin VIP Bạc,39146933,190.0,Thỏa thuận,,"10,5 m",,Đông - Nam,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,1,,0,0,0,0,1,0,0,0,0,0,0
 ,Đức Thắng,Bắc Từ Liêm,Nội thành,Tin thường,38716718,30.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,1,0,0,Nhỏ,0,0,0,1,0,1,1,0,0,0,1
 ,Phú La,Hà Đông,Nội thành,Tin thường,38427070,50.0,Thỏa thuận,"4,03 m",24 m,,Tây - Bắc,5.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,1,0,1,,0,0,0,0,0,0,0,0,0,0,0
-Giảng Võ,Kim Mã,Ba Đình,Ngoại thành,Tin thường,39037259,288.0,Thỏa thuận,,,,,5.0,,,,,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
+Giảng Võ,Kim Mã,Ba Đình,Nội thành,Tin thường,39037259,288.0,Thỏa thuận,,,,,5.0,,,,,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
 Láng Hòa Lạc,An Khánh,Hoài Đức,Ngoại thành,Tin thường,39199506,255.0,Thỏa thuận,,,,,,,,,,Biệt thự,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Đại lộ Thăng Long,An Khánh,Hoài Đức,Ngoại thành,Tin thường,36221639,255.0,Thỏa thuận,12 m,40 m,,Nam,,,,Sổ đỏ chính chủ.,,Biệt thự,1,1,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Lê Quang Đạo,Phú Đô,Nam Từ Liêm,Nội thành,Tin thường,38927400,41.0,Thỏa thuận,"4,2 m",3 m,Tây - Bắc,Tây - Bắc,4.0,4.0,3.0,Sổ đỏ chuẩn pháp lý,Đẹp,Nhà riêng,1,0,1,0,Rộng,0,1,1,0,0,0,0,0,0,0,0
@@ -681,7 +681,7 @@ Nguyễn Đình Thi,Thụy Khuê,Tây Hồ,Nội thành,Tin thường,38971257,4
 ,Quang Trung,Sơn Tây,Ngoại thành,Tin thường,39159867,125.0,Thỏa thuận,5 m,35 m,,,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng.,Không nội thất.,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Phúc La,Hà Đông,Nội thành,Tin thường,38060130,135.0,Thỏa thuận,22 m,8 m,,,,6.0,7.0,Sổ đỏ,Đầy đủ,Biệt thự,1,0,0,0,,0,0,1,0,0,0,0,1,0,1,0
 Nguyễn Văn Lộc,Mỗ Lao,Hà Đông,Nội thành,Tin thường,38364192,150.0,Thỏa thuận,,,,,3.0,,,,,Biệt thự,0,0,0,1,,0,1,0,0,1,0,0,0,0,0,0
-Vạn Phúc,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,23999033,220.0,Thỏa thuận,10 m,8 m,,,5.0,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,1,1,0,1,1,1,0,0,1,1,0
+Vạn Phúc,Liễu Giai,Ba Đình,Nội thành,Tin thường,23999033,220.0,Thỏa thuận,10 m,8 m,,,5.0,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,1,1,0,1,1,1,0,0,1,1,0
 ,Văn Tự,Thường Tín,Ngoại thành,Tin thường,36123051,87.4,Thỏa thuận,"4,6 m",,,,3.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 ,Đức Giang,Long Biên,Nội thành,Tin thường,39157191,210.0,Thỏa thuận,11 m,13 m,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,1,0,0,1,,0,0,0,0,0,1,1,0,0,0,0
 Tu Hoàng,Xuân Phương,Nam Từ Liêm,Nội thành,Tin thường,38997677,42.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng.,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,0,0,0
@@ -693,7 +693,7 @@ Hoàng Công,Kiến Hưng,Hà Đông,Nội thành,Tin thường,39214438,50.0,Th
 Quốc lộ 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,39106439,100.0,Thỏa thuận,,,,Đông - Nam,,,,,,Biệt thự,0,0,0,1,,0,1,0,0,0,0,0,0,0,0,0
 đường Phương Canh,Xuân Phương,Nam Từ Liêm,Nội thành,Tin thường,27001108,183.0,Thỏa thuận,,40 m,,,,,,,,Biệt thự,0,0,0,1,,0,0,0,1,0,0,0,1,0,0,1
 Phú Diễn,Phú Diễn,Bắc Từ Liêm,Nội thành,Tin thường,39123685,55.0,Thỏa thuận,,3 m,,,7.0,17.0,18.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,1,1,0,0,,0,0,0,1,1,0,0,0,1,0,0
-Đào Tấn,Cống Vị,Ba Đình,Ngoại thành,Tin thường,39223969,79.0,Thỏa thuận,"4,5 m",15 m,,,9.0,15.0,16.0,,,Nhà riêng,0,0,0,0,Nhỏ,0,1,0,0,0,1,0,0,1,0,0
+Đào Tấn,Cống Vị,Ba Đình,Nội thành,Tin thường,39223969,79.0,Thỏa thuận,"4,5 m",15 m,,,9.0,15.0,16.0,,,Nhà riêng,0,0,0,0,Nhỏ,0,1,0,0,0,1,0,0,1,0,0
 Đặng Xuân Bảng,Đại Kim,Hoàng Mai,Nội thành,Tin thường,38819575,73.0,Thỏa thuận,"4,8 m",4 m,,,5.0,4.0,4.0,Sổ đỏ/ Sổ hồng.,Cơ bản.,Biệt thự,1,0,0,0,Nhỏ,1,0,0,0,1,0,0,0,0,0,0
 ,Thạch Bàn,Long Biên,Nội thành,Tin thường,32250581,31.0,Thỏa thuận,"4,3 m",2 m,,Bắc,4.0,3.0,3.0,Sổ đỏ/ Sổ hồng,"Cửa và cầu thang toàn bộ gỗ lim, thiết bị vệ sinh loại tốt.",Nhà riêng,1,1,0,0,,0,0,0,1,1,0,1,0,0,0,0
 Sao Biển 18,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,35815427,299.9,Thỏa thuận,,20 m,,Tây - Nam,,,,Sổ đỏ,,Biệt thự,1,0,0,1,Rộng,0,0,0,0,1,0,0,0,0,1,1
@@ -712,7 +712,7 @@ Tân Mai,Hoàng Văn Thụ,Hoàng Mai,Nội thành,Tin thường,38449726,266.8,
 Cổ Linh,Thạch Bàn,Long Biên,Nội thành,Tin thường,39212225,48.0,Thỏa thuận,,,,,5.0,4.0,,,,Nhà riêng,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Nguyệt Quế 17,Việt Hưng,Long Biên,Nội thành,Tin thường,39049196,90.0,Thỏa thuận,6 m,,Đông - Bắc,Đông - Bắc,3.0,3.0,4.0,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 ,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,39190182,115.0,Thỏa thuận,"9,5 m",30 m,,,4.0,3.0,3.0,Sổ đỏ sẵn sàng giao dịch,Full nội thất cao cấp,Biệt thự,1,0,0,0,,0,0,0,0,1,0,1,0,0,0,0
-Phạm Huy Thông,Ngọc Khánh,Ba Đình,Ngoại thành,Tin thường,22390700,110.0,Thỏa thuận,10 m,,,,,,,,,Nhà riêng,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
+Phạm Huy Thông,Ngọc Khánh,Ba Đình,Nội thành,Tin thường,22390700,110.0,Thỏa thuận,10 m,,,,,,,,,Nhà riêng,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Kim Giang,Kim Giang,Thanh Xuân,Nội thành,Tin thường,39196588,33.0,Thỏa thuận,,,,,3.0,3.0,,,,Nhà riêng,1,1,0,0,,0,0,0,1,0,0,1,0,0,0,0
 70,Đại Mỗ,Nam Từ Liêm,Nội thành,Tin thường,39207298,200.0,Thỏa thuận,14 m,12 m,Tây - Nam,Đông - Nam,5.0,4.0,5.0,Đang chờ sổ,Không nội thất,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Tân Mai,Hoàng Văn Thụ,Hoàng Mai,Nội thành,Tin thường,36904116,93.8,Thỏa thuận,5 m,12 m,,Tây,5.0,,,Đang chờ sổ,Nhà xây thô hoàn thiện mặt ngoài.,Biệt thự,0,0,0,1,,0,1,0,1,0,0,0,0,0,0,0
@@ -750,7 +750,7 @@ Mễ Trì Thượng,Mễ Trì,Nam Từ Liêm,Nội thành,Tin thường,39173440
 Nguyễn Khánh Toàn,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thường,38132064,80.0,Thỏa thuận,6 m,10 m,,,7.0,6.0,6.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,1,0,1,,0,0,0,1,1,0,0,1,0,0,1
 Cầu Diễn,Cầu Diễn,Nam Từ Liêm,Nội thành,Tin thường,39088241,67.0,Thỏa thuận,"7,5 m",,,,,,,,,Nhà riêng,1,0,0,0,,0,0,0,0,0,0,0,1,1,0,0
 Xuân La,Xuân La,Tây Hồ,Nội thành,Tin thường,39226423,57.0,Thỏa thuận,4 m,4 m,Đông - Nam,Đông - Nam,6.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,0,0,1,0,0
-Đội Cấn,Ngọc Hà,Ba Đình,Ngoại thành,Tin thường,39232155,200.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,1,1,1,0,0
+Đội Cấn,Ngọc Hà,Ba Đình,Nội thành,Tin thường,39232155,200.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,1,1,1,0,0
 Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin thường,39133299,60.0,Thỏa thuận,4 m,30 m,,Tây - Nam,3.0,,,Hợp đồng mua bán,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Kiến Hưng,Hà Đông,Nội thành,Tin thường,39172294,225.0,Thỏa thuận,10 m,30 m,,Tây,,,,,,Biệt thự,1,0,0,1,,0,0,0,0,1,0,0,0,0,0,0
 ,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,39209630,55.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,1,0,1,0,0
@@ -837,7 +837,7 @@ Quốc lộ 32,Trạm Trôi,Hoài Đức,Ngoại thành,Tin thường,39097105,2
 Tố Hữu,Vạn Phúc,Hà Đông,Nội thành,Tin thường,38773563,90.0,Thỏa thuận,"6,5 m",,,,6.0,,,,,Biệt thự,0,0,0,0,,1,1,0,0,0,0,0,0,0,0,0
 Hà Trì,Hà Cầu,Hà Đông,Nội thành,Tin thường,39163594,34.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,Nhỏ,0,1,0,0,0,0,0,0,0,0,0
 Âu Cơ,Nhật Tân,Tây Hồ,Nội thành,Tin thường,39013304,41.0,Thỏa thuận,"3,8 m","2,5 m",Đông - Nam,Đông - Nam,5.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,1,1,0,0,,0,0,0,1,1,1,0,0,0,0,0
-Đội Cấn,Cống Vị,Ba Đình,Ngoại thành,Tin thường,39209805,385.0,Thỏa thuận,10 m,,,,4.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,Nhỏ,0,0,0,0,1,0,0,0,0,0,0
+Đội Cấn,Cống Vị,Ba Đình,Nội thành,Tin thường,39209805,385.0,Thỏa thuận,10 m,,,,4.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,Nhỏ,0,0,0,0,1,0,0,0,0,0,0
 Võ Chí Công,Xuân La,Tây Hồ,Nội thành,Tin thường,30461474,239.8,Thỏa thuận,,,,,,,,,,Biệt thự,1,0,0,1,,0,0,0,1,1,0,1,0,0,1,0
 ,La Khê,Hà Đông,Nội thành,Tin thường,39070480,55.0,Thỏa thuận,4 m,7 m,,,6.0,6.0,6.0,Sổ đỏ,Đầy đủ,Biệt thự,0,1,0,0,Nhỏ,1,0,0,0,0,0,0,0,0,0,0
 Vĩnh Hưng,Vĩnh Hưng,Hoàng Mai,Nội thành,Tin thường,39033160,38.0,Thỏa thuận,4 m,,,,5.0,3.0,4.0,Sổ đỏ/ Sổ hồng.,Đầy đủ.,Nhà riêng,0,0,0,0,,0,0,1,0,0,1,1,1,0,0,0
@@ -853,7 +853,7 @@ Nguyễn Chánh,Trung Hòa,Cầu Giấy,Nội thành,Tin thường,38634411,273.
 Phạm Hùng,Mễ Trì,Nam Từ Liêm,Nội thành,Tin thường,32724134,202.0,Thỏa thuận,"13,5 m",,,Tây - Nam,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,1,,0,1,1,1,0,0,1,1,0,0,0
 Phan Trọng Tuệ,Tân Triều,Thanh Trì,Ngoại thành,Tin thường,39180585,120.0,Thỏa thuận,8 m,,,,4.0,5.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,1,Rộng,1,0,0,0,0,1,0,1,0,0,0
 Cổ Loa,Uy Nỗ,Đông Anh,Ngoại thành,Tin thường,36512541,70.0,Thỏa thuận,5 m,21 m,,Đông - Nam,,,,,,Biệt thự,1,1,1,0,,1,1,0,0,0,0,0,0,0,0,0
-Hoàng Hoa Thám,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39216224,87.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,0
+Hoàng Hoa Thám,Liễu Giai,Ba Đình,Nội thành,Tin thường,39216224,87.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,0
 Hải Âu 02,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,38162831,150.0,Thỏa thuận,10 m,30 m,Đông - Bắc,Bắc,4.0,3.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Cổ Nhuế,Cổ Nhuế 2,Bắc Từ Liêm,Nội thành,Tin thường,26067861,125.0,Thỏa thuận,"8,3 m",30 m,Tây - Nam,Tây - Bắc,4.0,,,,,Biệt thự,1,1,1,1,,0,1,0,0,1,0,1,0,0,1,0
 Đỗ Nhuận,Xuân Tảo,Bắc Từ Liêm,Nội thành,Tin thường,24663535,345.0,Thỏa thuận,,,,,3.0,,,,,Biệt thự,0,0,0,1,,0,0,0,0,0,1,0,0,0,0,0
@@ -955,7 +955,7 @@ Nguyệt Quế,Việt Hưng,Long Biên,Nội thành,Tin VIP Bạc,38380040,311.0
 Hào Nam,Hàng Bột,Đống Đa,Nội thành,Tin thường,39176569,50.0,Thỏa thuận,,,,,8.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,1,0,1,0,0
 Hữu Hưng,Đại Mỗ,Nam Từ Liêm,Nội thành,Tin thường,38778714,30.0,Thỏa thuận,,,,,5.0,3.0,4.0,,,Nhà riêng,0,0,0,0,Nhỏ,0,1,1,0,0,0,1,0,0,0,0
 ,La Khê,Hà Đông,Nội thành,Tin thường,39092048,52.0,Thỏa thuận,4 m,6 m,Tây - Bắc,Tây - Bắc,5.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,,1,0,0,0,0,0,0,1,0,0,0
-Văn Cao,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,35672405,48.0,Thỏa thuận,5 m,9 m,,,5.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,1,Nhỏ,1,1,1,1,1,1,1,1,1,0,0
+Văn Cao,Liễu Giai,Ba Đình,Nội thành,Tin thường,35672405,48.0,Thỏa thuận,5 m,9 m,,,5.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,1,Nhỏ,1,1,1,1,1,1,1,1,1,0,0
 Nhật Chiêu,Xuân La,Tây Hồ,Nội thành,Tin thường,38585525,60.0,Thỏa thuận,,,,,5.0,,,,,Nhà riêng,0,0,0,1,,0,0,0,0,1,0,1,0,0,1,0
 ,Ngọc Thụy,Long Biên,Nội thành,Tin thường,38797431,130.0,Thỏa thuận,20 m,40 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,,Biệt thự,1,0,1,0,,1,0,0,0,1,0,0,0,1,0,0
 ,Phú Thượng,Tây Hồ,Nội thành,Tin thường,39164019,320.0,Thỏa thuận,12 m,25 m,,,4.0,,,Sổ đỏ/ Sổ hồng,,Biệt thự,1,0,0,1,,0,1,0,0,1,0,0,1,0,0,0
@@ -969,7 +969,7 @@ Nguyễn Văn Cừ,Gia Thụy,Long Biên,Nội thành,Tin thường,39236253,47.
 Quốc lộ 32,Trạm Trôi,Hoài Đức,Ngoại thành,Tin thường,37173090,230.0,Thỏa thuận,13 m,,,Tây - Nam,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ.,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Trần Quang Diệu,Ô Chợ Dừa,Đống Đa,Nội thành,Tin thường,38773141,55.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,1,0,0
 Nguyễn Khánh Toàn,Quan Hoa,Cầu Giấy,Nội thành,Tin thường,39088437,50.0,Thỏa thuận,4 m,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,1,0,0,0,0,0
-Phan Đình Phùng,Quán Thánh,Ba Đình,Ngoại thành,Tin thường,33788826,85.0,Thỏa thuận,10 m,,,,5.0,,,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,0,0,0
+Phan Đình Phùng,Quán Thánh,Ba Đình,Nội thành,Tin thường,33788826,85.0,Thỏa thuận,10 m,,,,5.0,,,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,0,0,0
 Đại lộ Thăng Long,An Khánh,Hoài Đức,Ngoại thành,Tin thường,30458735,243.0,Thỏa thuận,,,,Tây,3.0,,,,,Biệt thự,1,1,0,0,,0,0,0,0,1,0,1,0,0,0,0
 Đại lộ Thăng Long,An Khánh,Hoài Đức,Ngoại thành,Tin thường,39173121,126.0,Thỏa thuận,6 m,11 m,Nam,Đông - Nam,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Hoàng Văn Thái,Khương Mai,Thanh Xuân,Nội thành,Tin thường,39237988,100.0,Thỏa thuận,,,,,4.0,,,Sổ đỏ chính chủ.,,Chung cư mini,0,0,0,0,Nhỏ,0,0,1,0,0,0,0,0,0,1,0
@@ -1010,7 +1010,7 @@ Nguyễn Chánh,Trung Hòa,Cầu Giấy,Nội thành,Tin thường,39201596,93.0
 Đê La Thành,Láng Thượng,Đống Đa,Nội thành,Tin thường,39229577,40.0,Thỏa thuận,4 m,7 m,Đông - Bắc,Đông - Nam,3.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Tulip 9,Việt Hưng,Long Biên,Nội thành,Tin thường,35078606,225.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0
 Quốc lộ 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,39089560,153.0,Thỏa thuận,"7,5 m",51 m,,Tây - Nam,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,,0,0,0,1,1,0,0,0,0,0,0
-Tôn Thất Thiệp,Điện Biên,Ba Đình,Ngoại thành,Tin thường,38307947,110.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
+Tôn Thất Thiệp,Điện Biên,Ba Đình,Nội thành,Tin thường,38307947,110.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Lạc Long Quân,Phú Thượng,Tây Hồ,Nội thành,Tin thường,38335336,120.0,Thỏa thuận,6 m,12 m,,,4.0,5.0,5.0,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,Nhỏ,1,0,0,1,1,1,1,0,0,0,0
 Bùi Thiện Ngộ,Giang Biên,Long Biên,Nội thành,Tin thường,37257390,245.0,Thỏa thuận,15 m,,,,4.0,4.0,2.0,,,Biệt thự,0,0,0,1,,0,1,1,1,0,1,1,0,1,0,0
 Phan Văn Trường,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thường,33998378,75.0,Thỏa thuận,7 m,9 m,,,7.0,7.0,7.0,Sổ đỏ/ Sổ hồng,Châu Âu,Nhà riêng,1,1,0,1,,0,0,0,0,0,0,0,0,1,0,1
@@ -1034,7 +1034,7 @@ Nguyễn Trãi,Ngã Tư Sở,Đống Đa,Nội thành,Tin thường,39137940,1
 ,Tây Tựu,Bắc Từ Liêm,Nội thành,Tin thường,39185200,262.0,Thỏa thuận,"14,5 m",50 m,,,4.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Pháp Vân,Yên Sở,Hoàng Mai,Nội thành,Tin thường,39225513,120.0,Thỏa thuận,"5,5 m",,,Nam,3.0,,,Sổ đỏ.,,Biệt thự,0,0,0,1,,0,0,0,1,0,0,0,0,1,0,0
 Trạm,Long Biên,Long Biên,Nội thành,Tin thường,39203400,43.0,Thỏa thuận,4 m,,,,6.0,,,Sổ đỏ.,Đầy đủ công năng.,Nhà riêng,1,1,1,0,,0,0,0,0,0,0,1,0,0,0,0
-Đội Cấn,Đội Cấn,Ba Đình,Ngoại thành,Tin thường,39222872,50.0,Thỏa thuận,"4,4 m",8 m,,,6.0,4.0,5.0,,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,0,1,1,0,0
+Đội Cấn,Đội Cấn,Ba Đình,Nội thành,Tin thường,39222872,50.0,Thỏa thuận,"4,4 m",8 m,,,6.0,4.0,5.0,,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,0,1,1,0,0
 Thụy Phương,Thụy Phương,Bắc Từ Liêm,Nội thành,Tin thường,38069607,34.0,Thỏa thuận,5 m,2 m,,,5.0,3.0,4.0,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,0,0,0
 Đại lộ Thăng Long,Vân Côn,Hoài Đức,Ngoại thành,Tin thường,34855356,43.0,Thỏa thuận,"3,6 m",7 m,,,3.0,3.0,2.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,1,1,0,1,,0,0,0,1,0,0,0,0,0,0,0
 ,Vân Canh,Hoài Đức,Ngoại thành,Tin thường,24669671,276.5,Thỏa thuận,,,,Nam,,,,,,Biệt thự,0,0,0,1,,0,0,0,0,0,0,1,0,0,1,0
@@ -1124,7 +1124,7 @@ Ngọc Thụy,Ngọc Thụy,Long Biên,Nội thành,Tin thường,39158410,46.0,
 Hàm Nghi,Cầu Diễn,Nam Từ Liêm,Nội thành,Tin thường,37635971,96.0,Thỏa thuận,6 m,20 m,,,6.0,4.0,5.0,Sổ đỏ/ Sổ hồng.,Đầy đủ,Biệt thự,1,1,0,1,,1,1,0,0,0,1,1,0,1,0,0
 Lê Văn Thiêm,Thanh Xuân Bắc,Thanh Xuân,Nội thành,Tin thường,39199221,55.0,Thỏa thuận,"4,5 m",,,,,5.0,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,An Khánh,Hoài Đức,Ngoại thành,Tin thường,37649355,178.0,Thỏa thuận,,,,,,5.0,,,,Biệt thự,0,0,0,1,,0,0,0,0,1,0,0,0,0,0,0
-,Ngọc Khánh,Ba Đình,Ngoại thành,Tin thường,39176968,63.0,Thỏa thuận,,,,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,Rộng,0,0,0,0,0,0,0,0,0,0,0
+,Ngọc Khánh,Ba Đình,Nội thành,Tin thường,39176968,63.0,Thỏa thuận,,,,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,Rộng,0,0,0,0,0,0,0,0,0,0,0
 ,Kim Sơn,Sơn Tây,Ngoại thành,Tin thường,37458008,197.5,Thỏa thuận,10 m,,,,,,,Sổ đỏ,,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Nhật Chiêu,Nhật Tân,Tây Hồ,Nội thành,Tin thường,34560807,120.0,Thỏa thuận,8 m,10 m,,,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,"Đẹp, gỗ Lim Lào.",Biệt thự,0,0,0,0,,0,0,0,1,1,0,0,1,0,1,0
 179,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,37119740,150.0,Thỏa thuận,"8,5 m",13 m,Đông - Nam,Tây - Bắc,,,,Sổ đỏ/ Sổ hồng.,,Biệt thự,0,0,0,0,,0,0,0,0,1,1,0,0,0,0,0
@@ -1168,7 +1168,7 @@ Quốc lộ 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,37820348,100
 ,Trâu Quỳ,Gia Lâm,Ngoại thành,Tin thường,38145263,192.5,Thỏa thuận,,,Đông - Bắc,Đông - Bắc,3.0,5.0,3.0,Sổ đỏ.,,Biệt thự,1,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Lai Xá,Kim Chung,Hoài Đức,Ngoại thành,Tin thường,39175053,36.0,Thỏa thuận,,,,,,3.0,4.0,,,Nhà riêng,1,1,1,0,Nhỏ,0,0,1,0,0,1,1,0,0,0,0
 ,Mỗ Lao,Hà Đông,Nội thành,Tin thường,38792358,500.0,Thỏa thuận,16 m,,,,3.0,,,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,1,,0,0,0,0,0,1,0,0,0,0,0
-Văn Cao,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39168024,60.0,Thỏa thuận,"5,1 m",5 m,,,6.0,5.0,5.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,1,0,1,1,1,1,0,0
+Văn Cao,Liễu Giai,Ba Đình,Nội thành,Tin thường,39168024,60.0,Thỏa thuận,"5,1 m",5 m,,,6.0,5.0,5.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,1,0,1,1,1,1,0,0
 Tố Hữu,Dương Nội,Hà Đông,Nội thành,Tin thường,30947746,65.0,Thỏa thuận,"6,5 m",14 m,,,6.0,12.0,6.0,Sổ đỏ chính chủ.,Thô.,Biệt thự,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Tây Thăng Long,Đan Phượng,Đan Phượng,Ngoại thành,Tin thường,27922500,200.0,Thỏa thuận,8 m,"10,5 m",,,3.0,3.0,,Sổ đỏ,,Biệt thự,1,0,0,1,,0,1,0,0,0,0,0,0,0,0,1
 70,Đại Mỗ,Nam Từ Liêm,Nội thành,Tin thường,39181157,100.0,Thỏa thuận,7 m,"12,5 m",,,5.0,6.0,8.0,SĐCC.,Thô,Biệt thự,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
@@ -1354,7 +1354,7 @@ Ngọc Lâm,Bồ Đề,Long Biên,Nội thành,Tin thường,39223890,45.0,Thỏ
 Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin thường,38666808,100.0,Thỏa thuận,5 m,"13,5 m",,Nam,4.0,4.0,3.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,1,1,0,1,,0,0,0,1,0,0,1,0,0,0,0
 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,27393908,135.0,Thỏa thuận,"7,5 m",12 m,,Tây - Bắc,5.0,,,Hợp đồng mua bán,,Biệt thự,0,0,0,1,,0,1,0,0,0,0,0,0,0,0,0
 ,Phúc Lợi,Long Biên,Nội thành,Tin thường,38972365,510.0,Thỏa thuận,10 m,15 m,Đông - Bắc,Đông - Bắc,4.0,5.0,5.0,,,Biệt thự,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,1
-Thành Công,Thành Công,Ba Đình,Ngoại thành,Tin thường,39211161,47.0,Thỏa thuận,,,,,6.0,4.0,5.0,,,Nhà riêng,1,1,0,1,,0,0,0,1,1,0,1,0,1,0,0
+Thành Công,Thành Công,Ba Đình,Nội thành,Tin thường,39211161,47.0,Thỏa thuận,,,,,6.0,4.0,5.0,,,Nhà riêng,1,1,0,1,,0,0,0,1,1,0,1,0,1,0,0
 ,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,39229580,288.0,Thỏa thuận,16 m,15 m,Đông - Nam,Đông - Nam,3.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Không nội thất,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Đại lộ Thăng Long,An Thượng,Hoài Đức,Ngoại thành,Tin thường,38405107,110.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,Rộng,0,1,0,0,0,0,0,0,0,0,0
 ,Kiến Hưng,Hà Đông,Nội thành,Tin thường,39201725,55.0,Thỏa thuận,4 m,16 m,,,7.0,6.0,7.0,Sổ đỏ,,Nhà riêng,0,0,0,0,,1,0,1,0,0,0,0,0,1,0,0
@@ -1402,7 +1402,7 @@ Giáp Bát,Giáp Bát,Hoàng Mai,Nội thành,Tin thường,39004463,35.0,Thỏa
 ,Tứ Hiệp,Thanh Trì,Ngoại thành,Tin thường,38533983,39.0,Thỏa thuận,"3,5 m",,,,4.0,4.0,4.0,Sổ đỏ,,Nhà riêng,1,1,0,0,,0,1,0,1,0,0,0,0,0,0,1
 Đại Tự,Kim Chung,Hoài Đức,Ngoại thành,Tin thường,38974498,42.0,Thỏa thuận,4 m,,,Nam,4.0,2.0,1.0,,,Nhà riêng,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,1
 Phan Đình Giót,La Khê,Hà Đông,Nội thành,Tin thường,39212924,30.0,Thỏa thuận,4 m,2 m,,Tây - Bắc,5.0,3.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,1,0,0,,0,0,1,0,0,0,1,0,0,0,0
-Kim Mã,Kim Mã,Ba Đình,Ngoại thành,Tin thường,38418475,150.0,Thỏa thuận,"8,5 m",3 m,,,2.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Không nội thất,Chung cư mini,0,0,0,0,,0,0,0,0,1,1,0,0,0,0,0
+Kim Mã,Kim Mã,Ba Đình,Nội thành,Tin thường,38418475,150.0,Thỏa thuận,"8,5 m",3 m,,,2.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Không nội thất,Chung cư mini,0,0,0,0,,0,0,0,0,1,1,0,0,0,0,0
 Cổ Loa,Uy Nỗ,Đông Anh,Ngoại thành,Tin thường,39008729,70.0,Thỏa thuận,5 m,15 m,Đông - Bắc,Đông - Bắc,4.0,4.0,3.0,,,Biệt thự,1,1,0,0,,0,0,0,1,0,0,0,0,0,0,0
 Sài Đồng,Sài Đồng,Long Biên,Nội thành,Tin thường,39162844,60.0,Thỏa thuận,6 m,,,,5.0,4.0,,Sổ đỏ.,,Nhà riêng,0,0,0,0,,0,0,0,0,0,1,0,1,0,0,0
 Lạc Long Quân,Xuân La,Tây Hồ,Nội thành,Tin thường,39133292,42.0,Thỏa thuận,,,,,6.0,4.0,,,,Nhà riêng,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
@@ -1425,10 +1425,10 @@ Lê Trọng Tấn,An Khánh,Hoài Đức,Ngoại thành,Tin thường,32761040,2
 La Nội,Dương Nội,Hà Đông,Nội thành,Tin thường,38989085,38.6,Thỏa thuận,,,,,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,1,0,0,,0,0,0,0,0,0,1,0,0,0,0
 ,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,38799994,150.0,Thỏa thuận,"8,5 m",,,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,,0,1,0,0,1,1,0,0,0,0,0
 Quốc lộ 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,39119814,100.0,Thỏa thuận,,,,,4.0,,,,,Biệt thự,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
-Bưởi,Đội Cấn,Ba Đình,Ngoại thành,Tin thường,38793622,70.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,1,0,0,0
+Bưởi,Đội Cấn,Ba Đình,Nội thành,Tin thường,38793622,70.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,1,0,0,0
 ,Dương Nội,Hà Đông,Nội thành,Tin thường,25300538,248.0,Thỏa thuận,9 m,28 m,Đông - Nam,Đông - Nam,3.0,6.0,,,Đồng bồ hoàn thiện mặt ngoài.,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
 Lê Trọng Tấn,Phú La,Hà Đông,Nội thành,Tin thường,39097977,90.0,Thỏa thuận,5 m,40 m,,Đông - Nam,4.0,4.0,5.0,Sổ đỏ,,Biệt thự,0,0,0,0,,0,1,0,1,0,0,0,0,0,0,0
-Giảng Võ,Kim Mã,Ba Đình,Ngoại thành,Tin thường,27339286,137.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ chính chủ.,,Biệt thự,0,0,0,1,,0,0,0,0,0,0,0,1,1,0,0
+Giảng Võ,Kim Mã,Ba Đình,Nội thành,Tin thường,27339286,137.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ chính chủ.,,Biệt thự,0,0,0,1,,0,0,0,0,0,0,0,1,1,0,0
 Bằng Lăng,Phúc Lợi,Long Biên,Nội thành,Tin thường,39164212,600.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Mỹ Đình,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,39215664,52.0,Thỏa thuận,,,,,5.0,6.0,6.0,Sổ đỏ/ Sổ hồng.,Cơ bản,Nhà riêng,1,1,1,0,,0,0,0,1,0,0,1,0,0,1,0
 32,Kim Chung,Hoài Đức,Ngoại thành,Tin thường,38132766,33.4,Thỏa thuận,"3,6 m",7 m,Tây - Nam,Tây - Nam,7.0,5.0,6.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,0,0,1,,0,0,1,0,1,0,1,0,1,0,1
@@ -1763,7 +1763,7 @@ Trần Phú,Văn Quán,Hà Đông,Nội thành,Tin thường,39158433,31.0,Thỏ
 Nguyễn Cảnh Dị,Đại Kim,Hoàng Mai,Nội thành,Tin thường,36511390,124.5,Thỏa thuận,"8,5 m",21 m,,,4.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,0,0,0,,1,1,0,0,0,0,0,0,0,0,0
 Lê Đức Thọ,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,38873243,270.0,Thỏa thuận,,,Đông - Bắc,Đông - Nam,,,,Sổ đỏ/ Sổ hồng.,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,1,0,0,1
 Nguyễn Văn Huyên,Xuân La,Tây Hồ,Nội thành,Tin thường,30231364,336.0,Thỏa thuận,,50 m,,Tây,,,,Sổ đỏ,,Biệt thự,0,0,0,0,,1,0,0,1,1,0,0,1,0,0,0
-Yên Ninh,Trúc Bạch,Ba Đình,Ngoại thành,Tin thường,38983824,20.0,Thỏa thuận,5 m,,,,5.0,3.0,4.0,,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,0,0,0,1,0
+Yên Ninh,Trúc Bạch,Ba Đình,Nội thành,Tin thường,38983824,20.0,Thỏa thuận,5 m,,,,5.0,3.0,4.0,,,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,0,0,0,1,0
 ,Xuân Phương,Nam Từ Liêm,Nội thành,Tin thường,39179990,160.0,Thỏa thuận,,,,,,,,Hợp đồng mua bán,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Kiến Hưng,Hà Đông,Nội thành,Tin thường,39113014,200.0,Thỏa thuận,,,,Bắc,,,,,,Biệt thự,1,0,0,1,,0,0,0,0,1,0,0,0,0,0,1
 ,Phúc Đồng,Long Biên,Nội thành,Tin thường,39100166,60.0,Thỏa thuận,"4,2 m",13 m,,,5.0,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,1,0,0,,0,0,0,1,0,1,0,0,0,0,0
@@ -1798,13 +1798,13 @@ Văn Tiến Dũng,Xuân Phương,Nam Từ Liêm,Nội thành,Tin thường,25378
 Tân Mai,Tân Mai,Hoàng Mai,Nội thành,Tin thường,39181904,48.0,Thỏa thuận,"3,9 m",9 m,,,6.0,6.0,6.0,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,1,1,1,1,0
 Ngọc Thụy,Ngọc Thụy,Long Biên,Nội thành,Tin thường,39158376,128.0,Thỏa thuận,6 m,,,,3.0,,,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,,1,0,0,0,0,0,0,1,1,0,0
 Sao Biển,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,39183006,70.0,Thỏa thuận,5 m,15 m,Đông - Nam,Đông - Nam,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Không nội thất,Biệt thự,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
-Giảng Võ,Kim Mã,Ba Đình,Ngoại thành,Tin thường,38110309,228.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
+Giảng Võ,Kim Mã,Ba Đình,Nội thành,Tin thường,38110309,228.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
 ,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,39198024,150.0,Thỏa thuận,"8,4 m",15 m,Tây - Bắc,Tây - Bắc,3.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Không nội thất,Biệt thự,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0
 Đại lộ Thăng Long,An Thượng,Hoài Đức,Ngoại thành,Tin thường,38574637,290.0,Thỏa thuận,15 m,15 m,Đông - Nam,Đông - Nam,3.0,5.0,3.0,,,Biệt thự,0,0,0,1,,0,0,0,1,0,0,0,0,0,0,0
 Kiến Hưng,Kiến Hưng,Hà Đông,Nội thành,Tin thường,19437350,100.0,Thỏa thuận,5 m,,,Tây - Nam,,,,,,Biệt thự,1,0,0,1,,0,1,0,0,1,0,0,0,0,0,1
 Nguyễn Phong Sắc,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,39161892,43.0,Thỏa thuận,,,,,5.0,6.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,Nhỏ,0,0,1,1,0,1,0,0,0,0,0
 Xuân La,Xuân La,Tây Hồ,Nội thành,Tin thường,39224520,75.0,Thỏa thuận,5 m,8 m,,,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,Nhỏ,1,0,1,0,1,0,0,1,1,0,0
-Phan Đình Phùng,Quán Thánh,Ba Đình,Ngoại thành,Tin thường,38413635,80.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,Rộng,0,1,0,0,0,0,1,0,0,1,0
+Phan Đình Phùng,Quán Thánh,Ba Đình,Nội thành,Tin thường,38413635,80.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,Rộng,0,1,0,0,0,0,1,0,0,1,0
 Khương Trung,Khương Trung,Thanh Xuân,Nội thành,Tin thường,38747335,108.0,Thỏa thuận,"5,65 m",,,,4.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,1,1,0,0,,0,0,1,1,0,0,1,0,0,0,0
 Xuân Đỉnh,Xuân Tảo,Bắc Từ Liêm,Nội thành,Tin thường,37718583,312.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
 Nguyễn Trực,Phú Lãm,Hà Đông,Nội thành,Tin thường,39163074,62.0,Thỏa thuận,5 m,8 m,Đông - Nam,Đông - Nam,5.0,4.0,4.0,Sổ đỏ,Đầy đủ,Nhà riêng,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,1
@@ -1969,7 +1969,7 @@ Lạc Long Quân,Bưởi,Tây Hồ,Nội thành,Tin thường,39111563,40.0,Th�
 Khuất Duy Tiến,Nhân Chính,Thanh Xuân,Nội thành,Tin thường,32001198,73.0,Thỏa thuận,6 m,,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,Nhỏ,1,0,0,1,0,0,0,0,0,0,0
 Yên Lộ,Yên Nghĩa,Hà Đông,Nội thành,Tin thường,38862984,38.5,Thỏa thuận,4 m,"3,5 m",Tây - Nam,Tây - Nam,3.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,1,1,,0,0,1,0,0,0,0,0,0,0,0
 Nguyễn An Ninh,Trương Định,Hai Bà Trưng,Nội thành,Tin thường,39210158,55.0,Thỏa thuận,,,,,4.0,,,,,Nhà riêng,1,1,1,0,,0,0,0,1,0,1,0,0,0,1,0
-Đê La Thành,Thành Công,Ba Đình,Ngoại thành,Tin thường,39174447,40.0,Thỏa thuận,4 m,,,,6.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
+Đê La Thành,Thành Công,Ba Đình,Nội thành,Tin thường,39174447,40.0,Thỏa thuận,4 m,,,,6.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
 ,Tân Triều,Thanh Trì,Ngoại thành,Tin thường,39231012,30.0,Thỏa thuận,,,,,5.0,,,,,Nhà riêng,0,0,0,0,,0,0,0,0,0,1,0,0,0,1,0
 Tân Mai,Hoàng Văn Thụ,Hoàng Mai,Nội thành,Tin thường,38293755,112.5,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,1,,0,0,0,0,0,0,0,0,0,1,0
 đường Mễ Trì,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,38831936,142.0,Thỏa thuận,"6,6 m",17 m,,,,5.0,4.0,Sổ đỏ/ Sổ hồng,,Biệt thự,1,1,0,0,,1,1,0,0,0,0,0,0,0,0,0
@@ -2038,7 +2038,7 @@ Cổ Loa,Uy Nỗ,Đông Anh,Ngoại thành,Tin thường,38842158,70.0,Thỏa th
 Đại lộ Thăng Long,Quốc Oai,Quốc Oai,Ngoại thành,Tin thường,38256293,207.0,Thỏa thuận,,,,,4.0,,,Hợp đồng mua bán,Không nội thất,Biệt thự,0,0,0,0,,0,0,0,1,1,0,0,0,0,0,0
 Nguyễn Văn Huyên,Phú Thượng,Tây Hồ,Nội thành,Tin thường,38405658,300.0,Thỏa thuận,,,,Đông - Nam,4.0,6.0,,,,Biệt thự,0,0,0,0,,0,1,0,0,0,1,1,0,1,0,0
 Minh Khai,Minh Khai,Hai Bà Trưng,Nội thành,Tin thường,38468103,45.0,Thỏa thuận,4 m,9 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,Nhỏ,0,1,0,1,0,1,1,1,1,1,0
-Thành Công,Thành Công,Ba Đình,Ngoại thành,Tin thường,39200276,40.0,Thỏa thuận,,,,,6.0,4.0,4.0,,,Nhà riêng,1,1,0,1,,0,0,0,1,1,0,1,0,1,0,0
+Thành Công,Thành Công,Ba Đình,Nội thành,Tin thường,39200276,40.0,Thỏa thuận,,,,,6.0,4.0,4.0,,,Nhà riêng,1,1,0,1,,0,0,0,1,1,0,1,0,1,0,0
 Quốc lộ 32,Di Trạch,Hoài Đức,Ngoại thành,Tin thường,39004853,100.0,Thỏa thuận,,,,,5.0,,,,,Biệt thự,1,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Nguyễn Sơn,Bồ Đề,Long Biên,Nội thành,Tin thường,39220800,45.0,Thỏa thuận,4 m,4 m,,,5.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ.,Nhà riêng,0,0,0,0,,0,0,1,1,0,1,0,0,0,0,1
 Lạc Long Quân,Phú Thượng,Tây Hồ,Nội thành,Tin thường,39232718,230.0,Thỏa thuận,,30 m,,,,,,,,Biệt thự,1,0,0,1,,0,0,0,0,0,0,0,0,0,1,0
@@ -2089,7 +2089,7 @@ Ngọc Thụy,Ngọc Thụy,Long Biên,Nội thành,Tin thường,37599317,105.0
 Nguyễn Cảnh Dị,Đại Kim,Hoàng Mai,Nội thành,Tin thường,39174150,55.0,Thỏa thuận,"4,2 m",,,,5.0,4.0,4.0,Sổ đỏ/ Sổ hồng.,Đầy đủ.,Biệt thự,0,1,0,0,,1,0,0,0,0,0,0,0,0,0,0
 Cổ Linh,Thạch Bàn,Long Biên,Nội thành,Tin thường,38878049,45.0,Thỏa thuận,4 m,3 m,,,5.0,5.0,4.0,Sổ đỏ,,Nhà riêng,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,1
 Nguyễn Sơn,Gia Thụy,Long Biên,Nội thành,Tin thường,39119797,80.0,Thỏa thuận,13 m,,,,5.0,,,,,Biệt thự,0,0,0,0,Nhỏ,1,0,0,1,0,0,1,0,1,1,0
-Liễu Giai,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39010922,186.0,Thỏa thuận,,,,,,,,,Cơ bản,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,1,1,0,0,0,0,0,0
+Liễu Giai,Liễu Giai,Ba Đình,Nội thành,Tin thường,39010922,186.0,Thỏa thuận,,,,,,,,,Cơ bản,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,1,1,0,0,0,0,0,0
 ,Phùng,Đan Phượng,Ngoại thành,Tin VIP Bạc,39205061,200.0,Thỏa thuận,8 m,11 m,,Đông - Bắc,,,,Hợp đồng mua bán,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 422B,Vân Canh,Hoài Đức,Ngoại thành,Tin thường,39214250,39.0,Thỏa thuận,,,,,5.0,6.0,5.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,1
 Sao Biển,Dương Xá,Gia Lâm,Ngoại thành,Tin thường,30867208,150.0,Thỏa thuận,"8,5 m",13 m,Đông - Nam,Đông - Nam,4.0,4.0,4.0,Sổ đỏ chính chủ.,,Biệt thự,0,0,0,0,,0,1,0,0,1,0,0,0,0,0,0
@@ -2140,7 +2140,7 @@ Cầu Giấy,Dịch Vọng,Cầu Giấy,Nội thành,Tin thường,39109671,50.0
 Láng Hạ,Láng Hạ,Đống Đa,Nội thành,Tin thường,39164291,30.0,Thỏa thuận,4 m,,,,6.0,4.0,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,1,0,0,1,1,1,0,0,0
 Lê Trọng Tấn,An Khánh,Hoài Đức,Ngoại thành,Tin thường,39228733,130.68,Thỏa thuận,"6,6 m",,,,4.0,,,Sổ đỏ,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin VIP Vàng,39232881,120.0,Thỏa thuận,6 m,"13,5 m",Tây - Bắc,Tây - Bắc,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,1,0,0,1,,0,0,0,0,0,0,0,0,0,1,0
-Nguyễn Văn Ngọc,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,38030444,91.0,Thỏa thuận,"7,3 m",,,,8.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,1,0,1,0,1,1,0,0
+Nguyễn Văn Ngọc,Liễu Giai,Ba Đình,Nội thành,Tin thường,38030444,91.0,Thỏa thuận,"7,3 m",,,,8.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,0,1,0,1,0,1,1,0,0
 70,Xuân Phương,Nam Từ Liêm,Nội thành,Tin thường,38916864,120.0,Thỏa thuận,22 m,40 m,,,4.0,5.0,6.0,Sổ đỏ phân lô,Đẹp xịn,Biệt thự,0,0,0,0,,1,0,0,0,0,0,0,0,0,1,0
 Quốc lộ 32,Trạm Trôi,Hoài Đức,Ngoại thành,Tin thường,39196896,220.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Nghiêm Xuân Yêm,Đại Kim,Hoàng Mai,Nội thành,Tin thường,35861824,188.0,Thỏa thuận,,,,,5.0,6.0,6.0,,Đầy đủ.,Biệt thự,0,0,0,0,,0,0,0,1,0,0,1,0,0,1,0
@@ -2148,7 +2148,7 @@ Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin thường,39063223,3
 Phạm Hùng,Mễ Trì,Nam Từ Liêm,Nội thành,Tin thường,39121108,180.0,Thỏa thuận,,,,,4.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,1,,0,0,0,0,0,0,1,1,0,0,0
 Hàm Nghi,Cầu Diễn,Nam Từ Liêm,Nội thành,Tin thường,39208270,53.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,0,0,0
 Đại lộ Thăng Long,An Khánh,Hoài Đức,Ngoại thành,Tin thường,39040212,210.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,1,0,0,0,,0,0,0,0,0,0,1,0,0,1,0
-Vĩnh Phúc,Vĩnh Phúc,Ba Đình,Ngoại thành,Tin thường,38113961,98.0,Thỏa thuận,10 m,4 m,,,6.0,6.0,6.0,Sổ Đỏ Chính Chủ Sẵn Sàng Giao Dịch Ngay.,Nội Thất Nhập Ngoại tặng lại khách luôn.,Nhà riêng,1,1,1,0,,0,1,0,1,0,1,1,1,1,1,0
+Vĩnh Phúc,Vĩnh Phúc,Ba Đình,Nội thành,Tin thường,38113961,98.0,Thỏa thuận,10 m,4 m,,,6.0,6.0,6.0,Sổ Đỏ Chính Chủ Sẵn Sàng Giao Dịch Ngay.,Nội Thất Nhập Ngoại tặng lại khách luôn.,Nhà riêng,1,1,1,0,,0,1,0,1,0,1,1,1,1,1,0
 Bùi Thiện Ngộ,Việt Hưng,Long Biên,Nội thành,Tin thường,39206247,170.0,Thỏa thuận,,,,,4.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,1,,1,0,0,1,0,1,1,1,1,0,0
 Thanh Am,Thượng Thanh,Long Biên,Nội thành,Tin thường,39235938,45.0,Thỏa thuận,"3,2 m",5 m,Đông - Bắc,Đông - Bắc,3.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,0,0,1,,1,0,0,0,1,0,0,1,0,0,0
 ,Đức Giang,Long Biên,Nội thành,Tin thường,39191520,230.0,Thỏa thuận,15 m,21 m,,,4.0,6.0,8.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,1,0,1,1,,1,0,0,0,0,0,0,0,0,0,0
@@ -2175,7 +2175,7 @@ Lê Trọng Tấn,Kiến Hưng,Hà Đông,Nội thành,Tin thường,38297303,50
 Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin thường,38666930,95.0,Thỏa thuận,,,,,,,,Sổ hồng,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Vân Canh,Hoài Đức,Ngoại thành,Tin thường,39062524,135.0,Thỏa thuận,"7,5 m",30 m,,,,,,,,Biệt thự,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0
 Quan Nhân,Nhân Chính,Thanh Xuân,Nội thành,Tin thường,38518380,175.0,Thỏa thuận,8 m,6 m,,,3.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,0,0,0,0,,0,0,0,1,1,0,0,1,0,1,0
-Giảng Võ,Kim Mã,Ba Đình,Ngoại thành,Tin thường,38757896,228.0,Thỏa thuận,,,,,5.0,,,,,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
+Giảng Võ,Kim Mã,Ba Đình,Nội thành,Tin thường,38757896,228.0,Thỏa thuận,,,,,5.0,,,,,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
 Phạm Văn Đồng,Cổ Nhuế 2,Bắc Từ Liêm,Nội thành,Tin thường,39161347,133.5,Thỏa thuận,9 m,30 m,,,4.0,,,,,Biệt thự,1,0,1,1,,0,0,0,0,1,0,1,0,0,1,0
 đường Trung Văn,Trung Văn,Nam Từ Liêm,Nội thành,Tin thường,39050866,144.0,Thỏa thuận,"6,2 m",,,,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Tố Hữu,Dương Nội,Hà Đông,Nội thành,Tin thường,38231669,170.0,Thỏa thuận,,,,,,,,Hợp đồng mua bán,,Biệt thự,1,0,1,0,,0,0,0,0,0,0,0,0,0,1,1
@@ -2210,7 +2210,7 @@ Lê Trọng Tấn,Phú La,Hà Đông,Nội thành,Tin thường,39023769,90.0,Th
 Vân Canh,Vân Canh,Hoài Đức,Ngoại thành,Tin thường,39164697,40.0,Thỏa thuận,,,,,5.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,1,1,0,0,,0,0,0,0,0,1,1,1,0,1,0
 ,Phú Thượng,Tây Hồ,Nội thành,Tin thường,38965506,150.0,Thỏa thuận,8 m,17 m,,,3.0,,,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,0,0,1,,0,1,0,0,1,0,0,1,0,0,0
 ,Thanh Liệt,Thanh Trì,Ngoại thành,Tin thường,37588331,132.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
-,Ngọc Hà,Ba Đình,Ngoại thành,Tin thường,38686413,40.6,Thỏa thuận,,,,,4.0,,,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,0,1,0,0,,0,1,0,0,0,0,0,0,0,0,0
+,Ngọc Hà,Ba Đình,Nội thành,Tin thường,38686413,40.6,Thỏa thuận,,,,,4.0,,,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,0,1,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Trần Kim Xuyến,Yên Hòa,Cầu Giấy,Nội thành,Tin thường,36349470,205.0,Thỏa thuận,,,,,5.0,,,,,Biệt thự,0,0,0,1,,1,0,0,1,0,0,0,1,0,0,0
 Huế,Phố Huế,Hai Bà Trưng,Nội thành,Tin VIP Bạc,39226363,40.0,Thỏa thuận,4 m,4 m,,,7.0,4.0,6.0,"Sổ Đỏ Chính Chủ, Nội Thất Cao Cấp",,Nhà riêng,0,0,0,0,,0,0,0,1,0,0,1,0,1,0,0
 Hồ Văn Chương,Quang Trung,Đống Đa,Nội thành,Tin thường,39216846,45.0,Thỏa thuận,4 m,,,,5.0,6.0,,,,Nhà riêng,0,0,0,0,,0,0,0,1,1,1,0,0,0,0,0
@@ -2260,7 +2260,7 @@ Khương Đình,Khương Đình,Thanh Xuân,Nội thành,Tin thường,38805991,
 Yên Duyên,Yên Sở,Hoàng Mai,Nội thành,Tin thường,38866985,190.0,Thỏa thuận,,,,,,3.0,4.0,Hợp đồng mua bán.,Đầy đủ.,Biệt thự,0,0,0,0,,0,0,0,1,0,0,1,0,1,0,0
 Cổ Loa,Đông Hội,Đông Anh,Ngoại thành,Tin thường,38779805,100.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,1,1,1,,0,0,0,0,1,0,0,0,0,0,0
 Tân Phong,Thụy Phương,Bắc Từ Liêm,Nội thành,Tin thường,38900793,50.0,Thỏa thuận,7 m,4 m,,,,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,1,0,0,0,,0,1,0,1,0,0,0,1,0,1,0
-Vĩnh Phúc,Vĩnh Phúc,Ba Đình,Ngoại thành,Tin thường,39223533,55.0,Thỏa thuận,10 m,,,Đông - Nam,4.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,0,0,0,,0,0,0,1,0,0,0,0,0,1,0
+Vĩnh Phúc,Vĩnh Phúc,Ba Đình,Nội thành,Tin thường,39223533,55.0,Thỏa thuận,10 m,,,Đông - Nam,4.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,1,0,0,0,,0,0,0,1,0,0,0,0,0,1,0
 Hà Trì 3,Hà Cầu,Hà Đông,Nội thành,Tin thường,38185412,35.0,Thỏa thuận,,,,,3.0,3.0,3.0,Sổ đỏ,,Nhà riêng,1,1,0,0,,0,0,0,1,0,0,0,0,0,1,0
 ,Thạch Hòa,Thạch Thất,Ngoại thành,Tin thường,38025652,180.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Lê Trọng Tấn,Khương Mai,Thanh Xuân,Nội thành,Tin thường,38899192,70.0,Thỏa thuận,"3,5 m",6 m,,,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Biệt thự,0,0,0,0,Nhỏ,0,0,0,0,0,1,0,0,0,0,0
@@ -2369,12 +2369,12 @@ Tân Mai,Hoàng Văn Thụ,Hoàng Mai,Nội thành,Tin thường,39133644,200.0,
 Quan Nhân,Nhân Chính,Thanh Xuân,Nội thành,Tin thường,39231135,50.0,Thỏa thuận,"4,5 m",5 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,0,0,0,1,0,1,0,0,0,1,0
 Hoàng Cầu,Ô Chợ Dừa,Đống Đa,Nội thành,Tin thường,39177283,65.0,Thỏa thuận,6 m,,,,,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,1,1,1,1,,1,0,0,0,1,0,1,1,1,0,0
 Nhật Tảo,Đông Ngạc,Bắc Từ Liêm,Nội thành,Tin thường,37968743,60.0,Thỏa thuận,5 m,3 m,Đông,Đông,5.0,9.0,9.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,1,0,0,,0,0,0,1,0,0,0,1,1,1,0
-Liễu Giai,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39230712,70.0,Thỏa thuận,"4,5 m",,,,6.0,5.0,4.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,0,0,1,0,1,0,0,1,1,0,0
+Liễu Giai,Liễu Giai,Ba Đình,Nội thành,Tin thường,39230712,70.0,Thỏa thuận,"4,5 m",,,,6.0,5.0,4.0,Sổ đỏ/ Sổ hồng,,Nhà riêng,0,0,0,0,,0,0,1,0,1,0,0,1,1,0,0
 Số 6 ngõ phố 56/16/6,Đức Thắng,Bắc Từ Liêm,Nội thành,Tin thường,39187780,35.0,Thỏa thuận,,,,Bắc,1.0,2.0,1.0,Sổ đỏ/ Sổ hồng,Cơ bản,Nhà riêng,1,1,1,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Vân Canh,Hoài Đức,Ngoại thành,Tin thường,39174500,135.0,Thỏa thuận,,,,,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Mễ Trì Thượng,Mễ Trì,Nam Từ Liêm,Nội thành,Tin thường,37966070,79.0,Thỏa thuận,"4,5 m",5 m,,,5.0,5.0,6.0,Sổ chính chủ.,"Đẹp, gỗ đỏ.",Nhà riêng,0,0,0,0,,0,0,1,1,0,0,1,0,1,0,0
 Đình Quán,Phúc Diễn,Bắc Từ Liêm,Nội thành,Tin thường,39193907,34.0,Thỏa thuận,"3,75 m",,,,5.0,,,Sổ đỏ/ Sổ hồng,,Nhà riêng,1,1,0,0,Nhỏ,0,0,0,0,0,1,0,0,0,0,0
-Giảng Võ,Kim Mã,Ba Đình,Ngoại thành,Tin thường,33801834,138.2,Thỏa thuận,8 m,,,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+Giảng Võ,Kim Mã,Ba Đình,Nội thành,Tin thường,33801834,138.2,Thỏa thuận,8 m,,,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Thọ Am,Ngũ Hiệp,Thanh Trì,Ngoại thành,Tin thường,38647710,61.0,Thỏa thuận,5 m,3 m,,,3.0,4.0,3.0,Sổ đỏ,,Nhà riêng,1,1,0,0,,0,1,0,1,0,0,0,0,0,0,1
 ,Phùng,Đan Phượng,Ngoại thành,Tin thường,39181933,200.0,Thỏa thuận,8 m,22 m,,Đông - Bắc,5.0,,,Hợp đồng mua bán,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 ,Tiền Phong,Mê Linh,Ngoại thành,Tin thường,39186489,180.0,Thỏa thuận,,,,,,,,,,Biệt thự,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
@@ -2402,7 +2402,7 @@ Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin thường,39167086,1
 Trần Hữu Dực,Xuân Phương,Nam Từ Liêm,Nội thành,Tin thường,30878985,150.0,Thỏa thuận,"7,5 m",50 m,Đông - Bắc,Đông - Bắc,5.0,6.0,5.0,Sổ đỏ chính chủ,Hoàn thiện ngoài,Biệt thự,0,0,0,1,,1,1,0,1,0,0,0,0,0,1,0
 Lạc Long Quân,Thụy Khuê,Tây Hồ,Nội thành,Tin thường,38327403,46.0,Thỏa thuận,"3,8 m",2 m,,,7.0,4.0,5.0,,,Nhà riêng,0,0,0,0,,0,0,0,0,1,0,0,0,1,0,0
 ,Phú Thượng,Tây Hồ,Nội thành,Tin thường,34287114,452.0,Thỏa thuận,35 m,60 m,Tây - Nam,Tây - Nam,5.0,,,,,Biệt thự,0,0,0,0,,0,0,0,1,0,0,0,1,0,1,0
-Giảng Võ,Kim Mã,Ba Đình,Ngoại thành,Tin thường,38706276,228.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
+Giảng Võ,Kim Mã,Ba Đình,Nội thành,Tin thường,38706276,228.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản,Biệt thự,0,0,1,0,,0,0,0,0,1,0,0,1,1,0,0
 Trần Phú,Văn Quán,Hà Đông,Nội thành,Tin thường,39173574,45.0,Thỏa thuận,5 m,16 m,,,5.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,1,0,0,0,0,0,0,1,0
 Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin thường,39213774,260.0,Thỏa thuận,13 m,20 m,,,,,,Sổ đỏ/ Sổ hồng,Không nội thất,Biệt thự,1,0,0,0,,0,1,0,1,1,0,1,0,1,0,1
 Tố Hữu,La Khê,Hà Đông,Nội thành,Tin thường,38944980,264.0,Thỏa thuận,12 m,12 m,Tây - Bắc,Tây - Bắc,4.0,6.0,6.0,Sổ đỏ sẵn sàng giao dịch,Nhà thô hoàn thiện mặt ngoài,Biệt thự,1,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
@@ -2420,7 +2420,7 @@ Lê Trọng Tấn,Dương Nội,Hà Đông,Nội thành,Tin thường,37328723,9
 ,Phú La,Hà Đông,Nội thành,Tin thường,38433099,41.8,Thỏa thuận,"4,5 m",,,,,,,Sổ đỏ gửi Bank,,Nhà riêng,1,1,0,1,,0,0,0,0,1,0,0,0,0,0,0
 Yên Lạc,Vĩnh Tuy,Hai Bà Trưng,Nội thành,Tin thường,39136896,160.0,Thỏa thuận,"6,8 m",5 m,,,6.0,6.0,6.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Nhà riêng,0,0,0,0,,0,0,1,0,0,0,1,0,0,0,0
 ,,Gia Lâm,Ngoại thành,Tin thường,39207029,165.0,Thỏa thuận,"9,2 m",15 m,Đông - Nam,Đông - Nam,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Không nội thất,Biệt thự,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0
-Đào Tấn,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39210853,62.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+Đào Tấn,Liễu Giai,Ba Đình,Nội thành,Tin thường,39210853,62.0,Thỏa thuận,,,,,,,,,,Nhà riêng,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Đặng Xuân Bảng,Đại Kim,Hoàng Mai,Nội thành,Tin thường,28625392,74.0,Thỏa thuận,6 m,,,,4.0,3.0,3.0,Sổ đỏ.,,Biệt thự,1,0,0,1,Nhỏ,1,0,0,0,0,0,0,0,0,0,0
 Tân Mai,Hoàng Văn Thụ,Hoàng Mai,Nội thành,Tin thường,39215035,95.0,Thỏa thuận,,,,Bắc,,,,,,Biệt thự,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Đại lộ Thăng Long,Quốc Oai,Quốc Oai,Ngoại thành,Tin thường,26881847,216.0,Thỏa thuận,16 m,13 m,,Bắc,4.0,8.0,6.0,,,Biệt thự,1,1,1,1,,0,0,0,0,1,0,0,0,0,0,0
@@ -2580,7 +2580,7 @@ Duy Tân,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,38405130,1800.0
 Lê Quang Đạo,Mễ Trì,Nam Từ Liêm,Nội thành,Tin thường,39207478,309.0,Thỏa thuận,7 m,16 m,,Nam,3.0,,,Sổ đỏ/ Sổ hồng,,Shophouse,0,0,0,0,,0,0,0,0,0,0,1,0,0,0,0
 Lê Quang Đạo,Mễ Trì,Nam Từ Liêm,Nội thành,Tin thường,39081418,188.0,Thỏa thuận,,,,Đông - Bắc,5.0,4.0,6.0,Sổ đỏ/ Sổ hồng.,,Shophouse,0,0,0,1,,0,0,0,0,0,1,1,0,1,0,0
 Dự án Thành  Giao Lưu,Cổ Nhuế 1,Bắc Từ Liêm,Nội thành,Tin thường,38713634,128.0,Thỏa thuận,8 m,60 m,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,,Shophouse,1,1,0,0,,0,0,0,0,1,0,0,1,0,0,0
-Giảng Võ,Kim Mã,Ba Đình,Ngoại thành,Tin thường,38656707,209.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ/ Sổ hồng,,Shophouse,0,0,0,0,,0,0,0,1,0,0,0,0,0,1,0
+Giảng Võ,Kim Mã,Ba Đình,Nội thành,Tin thường,38656707,209.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ/ Sổ hồng,,Shophouse,0,0,0,0,,0,0,0,1,0,0,0,0,0,1,0
 Pháp Vân,Yên Sở,Hoàng Mai,Nội thành,Tin thường,39063621,135.0,Thỏa thuận,,,,Đông - Nam,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Shophouse,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Lê Quang Đạo,Mễ Trì,Nam Từ Liêm,Nội thành,Tin thường,38768871,225.0,Thỏa thuận,,,,,,,,,,Shophouse,0,0,0,0,,0,1,0,0,0,0,0,0,1,0,0
 ,Hưng Hòa,Vinh,Ngoại thành,Tin thường,37991095,88.0,Thỏa thuận,5 m,34 m,Đông - Nam,Tây - Bắc,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,,Shophouse,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,1
@@ -2654,11 +2654,11 @@ Hào Nam,Cát Linh,Đống Đa,Nội thành,Tin thường,39137642,140.0,Thỏa
 Minh Khai,Minh Khai,Hai Bà Trưng,Nội thành,Tin thường,39181925,110.0,Thỏa thuận,,,,,5.0,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
 Vương Thừa Vũ,Khương Trung,Thanh Xuân,Nội thành,Tin thường,39137991,110.0,Thỏa thuận,9 m,,,,6.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Trần Thái Tông,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thường,38232924,150.0,Thỏa thuận,8 m,,,,9.0,,,Sổ đỏ/ Sổ hồng,"Thang Máy Nhập, Điểu Hoà xịn. Thiết bị điện thông minh. Nội thất cao cấp",Mặt phố,0,0,0,0,,0,0,0,1,1,0,1,0,1,0,0
-Liễu Giai,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39121276,385.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
+Liễu Giai,Liễu Giai,Ba Đình,Nội thành,Tin thường,39121276,385.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
 Nguyễn Tuân,Thanh Xuân Trung,Thanh Xuân,Nội thành,Tin thường,39137994,90.0,Thỏa thuận,6 m,,,,6.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,1,1,0,0
-Nguyễn Thái Học,Điện Biên,Ba Đình,Ngoại thành,Tin thường,36993825,375.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
+Nguyễn Thái Học,Điện Biên,Ba Đình,Nội thành,Tin thường,36993825,375.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
 Yên Hoa,Yên Phụ,Tây Hồ,Nội thành,Tin thường,37122512,55.0,Thỏa thuận,"4,2 m","13,5 m",,,6.0,8.0,6.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,1,0,0,1,0,1,0,1,1,0
-Ngũ Xã,Quán Thánh,Ba Đình,Ngoại thành,Tin thường,39197693,140.0,Thỏa thuận,,,,,3.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
+Ngũ Xã,Quán Thánh,Ba Đình,Nội thành,Tin thường,39197693,140.0,Thỏa thuận,,,,,3.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Chùa Láng,Láng Hạ,Đống Đa,Nội thành,Tin thường,39088304,120.0,Thỏa thuận,"6,2 m",,,,5.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,1,0,1,0,,1,0,0,1,0,0,0,0,1,0,0
 Thanh Nhàn,Thanh Nhàn,Hai Bà Trưng,Nội thành,Tin thường,38909230,120.0,Thỏa thuận,,,,,7.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,1,0,0,0,0,1
 Cao Lỗ,Uy Nỗ,Đông Anh,Ngoại thành,Tin thường,38764152,62.0,Thỏa thuận,4 m,20 m,,,4.0,4.0,4.0,Đã có sổ,,Mặt phố,0,1,0,0,,0,0,0,1,0,0,0,0,0,1,0
@@ -2678,7 +2678,7 @@ Nhật Chiêu,Nhật Tân,Tây Hồ,Nội thành,Tin thường,39192855,78.0,Th�
 Vọng,Đồng Tâm,Hai Bà Trưng,Nội thành,Tin thường,39137900,100.0,Thỏa thuận,"6,5 m",,,,9.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,0,0,0,0
 Tràng Tiền,Tràng Tiền,Hoàn Kiếm,Nội thành,Tin thường,34500874,270.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,1,0,0,1,0,0,0,0,0,0
 Hồng Tiến,Bồ Đề,Long Biên,Nội thành,Tin thường,39201185,48.0,Thỏa thuận,,,,,4.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
-Phan Đình Phùng,Quán Thánh,Ba Đình,Ngoại thành,Tin thường,28883766,55.0,Thỏa thuận,,,,,,,,Sổ đỏ chính chủ vuông lắm,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,1,0,1,0,0
+Phan Đình Phùng,Quán Thánh,Ba Đình,Nội thành,Tin thường,28883766,55.0,Thỏa thuận,,,,,,,,Sổ đỏ chính chủ vuông lắm,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,1,0,1,0,0
 Cổ Linh,Thạch Bàn,Long Biên,Nội thành,Tin thường,39128105,70.0,Thỏa thuận,"4,5 m",,,,3.0,3.0,2.0,Sổ đỏ/ Sổ hồng,Đầy đủ.,Mặt phố,0,0,0,0,Nhỏ,1,0,0,1,0,0,0,0,0,1,1
 Đào Duy Từ,Hàng Buồm,Hoàn Kiếm,Nội thành,Tin thường,39211581,21.9,Thỏa thuận,"4,6 m",,,,6.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Giáp Bát,Giáp Bát,Hoàng Mai,Nội thành,Tin thường,38966662,72.0,Thỏa thuận,4 m,6 m,,,6.0,5.0,4.0,Sổ đỏ/ Sổ hồng.,Đầy đủ.,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,1,1,0,0
@@ -2688,7 +2688,7 @@ Thái Thịnh,Láng Hạ,Đống Đa,Nội thành,Tin thường,39113341,85.0,T
 Lò Đúc,Đống Mác,Hai Bà Trưng,Nội thành,Tin thường,39116103,230.0,Thỏa thuận,9 m,25 m,,,8.0,16.0,16.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,1,1,1,0
 Láng Hạ,Láng Hạ,Đống Đa,Nội thành,Tin thường,39218347,115.0,Thỏa thuận,"5,5 m",12 m,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,1,1,0,0,0,0,0,0,0,0,0
 ,Trung Phụng,Đống Đa,Nội thành,Tin thường,38091236,73.0,Thỏa thuận,"4,3 m",25 m,,,1.0,2.0,2.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,1,1,0,1,0,1,1,0,0,0,0
-Nguyễn Thái Học,Điện Biên,Ba Đình,Ngoại thành,Tin thường,39169548,105.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+Nguyễn Thái Học,Điện Biên,Ba Đình,Nội thành,Tin thường,39169548,105.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Lạc Trung,Thanh Lương,Hai Bà Trưng,Nội thành,Tin thường,39153906,70.0,Thỏa thuận,5 m,,,,7.0,,,Sổ đỏ.,,Mặt phố,0,0,0,0,Nhỏ,1,0,0,0,0,0,0,0,1,0,1
 Huế,Nguyễn Du,Hai Bà Trưng,Nội thành,Tin thường,37671167,51.0,Thỏa thuận,4 m,30 m,,,3.0,,,Sổ đỏ/ Sổ hồng,Không nội thất,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Thiên Hiền,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,39221078,110.0,Thỏa thuận,,,,,8.0,8.0,8.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,1,0,0
@@ -2704,13 +2704,13 @@ Nguyễn Khánh Toàn,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thườn
 Tô Hiệu,Nguyễn Trãi,Hà Đông,Nội thành,Tin thường,38892368,35.0,Thỏa thuận,,,,,4.0,4.0,4.0,Sổ đỏ,,Mặt phố,1,1,0,0,,1,1,1,0,0,0,0,0,0,1,0
 Trần Cung,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,38963800,54.0,Thỏa thuận,5 m,15 m,,,2.0,2.0,1.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,1,0,1,0,0,0,0,0,0,0
 Khuất Duy Tiến,Trung Hòa,Cầu Giấy,Nội thành,Tin thường,39181587,70.0,Thỏa thuận,"6,55 m",40 m,,,8.0,8.0,8.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,1,1,0
-Nguyễn Công Hoan,Ngọc Khánh,Ba Đình,Ngoại thành,Tin thường,38418321,53.0,Thỏa thuận,"4,5 m",25 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,1,0,0,1,0,0,0,1,0,0
+Nguyễn Công Hoan,Ngọc Khánh,Ba Đình,Nội thành,Tin thường,38418321,53.0,Thỏa thuận,"4,5 m",25 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,1,0,0,1,0,0,0,1,0,0
 Láng Hạ,Láng Hạ,Đống Đa,Nội thành,Tin thường,38358513,110.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,1,0,1,,0,0,0,0,0,0,0,0,0,0,0
-Phan Đình Phùng,Quán Thánh,Ba Đình,Ngoại thành,Tin thường,27605223,55.0,Thỏa thuận,5 m,,,,9.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,0,1,0,0
+Phan Đình Phùng,Quán Thánh,Ba Đình,Nội thành,Tin thường,27605223,55.0,Thỏa thuận,5 m,,,,9.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,0,1,0,0
 8/3,Minh Khai,Hai Bà Trưng,Nội thành,Tin thường,38615605,100.0,Thỏa thuận,4 m,,,Tây - Bắc,4.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,Rộng,0,0,0,0,0,0,0,0,0,0,0
 Nguyễn Đình Chiểu,Lê Đại Hành,Hai Bà Trưng,Nội thành,Tin thường,39160239,100.0,Thỏa thuận,9 m,,,,7.0,,,,,Mặt phố,0,0,0,1,,0,0,0,0,1,0,0,0,1,0,0
 Phạm Sư Mạnh,Tràng Tiền,Hoàn Kiếm,Nội thành,Tin thường,39119451,66.0,Thỏa thuận,6 m,,,,5.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,1,0,,1,0,0,0,1,0,0,0,0,0,0
-Nguyễn Công Hoan,Kim Mã,Ba Đình,Ngoại thành,Tin thường,39040514,60.0,Thỏa thuận,,,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,0,0,0,Rộng,1,1,0,1,0,0,0,1,0,0,0
+Nguyễn Công Hoan,Kim Mã,Ba Đình,Nội thành,Tin thường,39040514,60.0,Thỏa thuận,,,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,0,0,0,Rộng,1,1,0,1,0,0,0,1,0,0,0
 Nguyễn Văn Tuyết,Trung Liệt,Đống Đa,Nội thành,Tin thường,38332665,55.0,Thỏa thuận,"4,1 m",,,,4.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Vạn Phúc,Vạn Phúc,Hà Đông,Nội thành,Tin thường,39121668,68.0,Thỏa thuận,"5,5 m",,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 ,Khương Thượng,Đống Đa,Nội thành,Tin thường,38943063,60.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,1,0,0,1,1,0,1,0,0,0,0
@@ -2735,7 +2735,7 @@ Trâu Quỳ,Trâu Quỳ,Gia Lâm,Ngoại thành,Tin thường,39185397,122.0,Th�
 Mỹ Đình,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,39228071,255.0,Thỏa thuận,,,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,1,0,0,0,0,0,1,0
 Ấu Triệu,Hàng Trống,Hoàn Kiếm,Nội thành,Tin thường,29104310,500.0,Thỏa thuận,13 m,,,,,,,,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Đồng Cổ,Quảng An,Tây Hồ,Nội thành,Tin thường,39220227,87.0,Thỏa thuận,,,,,8.0,6.0,,,,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,0,1,0,0
-,Điện Biên,Ba Đình,Ngoại thành,Tin thường,38951239,50.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
+,Điện Biên,Ba Đình,Nội thành,Tin thường,38951239,50.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
 Mai Hắc Đế,Lê Đại Hành,Hai Bà Trưng,Nội thành,Tin thường,39211492,16.0,Thỏa thuận,3 m,,,,2.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Đại Cồ Việt,Lê Đại Hành,Hai Bà Trưng,Nội thành,Tin thường,39146397,185.0,Thỏa thuận,"6,8 m",,,,9.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,0,0,1,Rộng,0,0,0,1,0,0,0,0,0,0,0
 Trích Sài,Bưởi,Tây Hồ,Nội thành,Tin thường,38771243,57.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,1,0,0,1,0,0,0,0,0,0
@@ -2760,7 +2760,7 @@ Vũ Tông Phan,Khương Đình,Thanh Xuân,Nội thành,Tin thường,37375895,4
 Vũ Phạm Hàm,Yên Hòa,Cầu Giấy,Nội thành,Tin thường,38247381,79.0,Thỏa thuận,,,,,7.0,4.0,6.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,1,0,1,0,0,0,0,1,0,0
 Hoàng Sâm,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,34248924,73.0,Thỏa thuận,6 m,10 m,,,7.0,7.0,7.0,Sổ đỏ.,Châu Âu.,Mặt phố,1,1,0,1,Nhỏ,1,0,0,0,1,0,0,0,1,0,1
 ,Kim Bài,Thanh Oai,Ngoại thành,Tin thường,39117812,150.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
-Liễu Giai,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,39122740,400.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
+Liễu Giai,Liễu Giai,Ba Đình,Nội thành,Tin thường,39122740,400.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
 Dịch Vọng Hậu,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thường,39153601,293.0,Thỏa thuận,26 m,,,,8.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
 Quang Trung,Quang Trung,Hà Đông,Nội thành,Tin thường,39189687,40.0,Thỏa thuận,"3,5 m",62 m,Nam,Đông - Nam,3.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,1,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Nguyễn Văn Trỗi,Mỗ Lao,Hà Đông,Nội thành,Tin thường,39221548,55.0,Thỏa thuận,"3,6 m",9 m,,,6.0,4.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,0,0,0,,0,0,0,0,0,1,0,0,1,0,0
@@ -2769,9 +2769,9 @@ Ngụy Như Kon Tum,Nhân Chính,Thanh Xuân,Nội thành,Tin thường,38422369
 Hàng Bài,Hàng Bài,Hoàn Kiếm,Nội thành,Tin thường,37723021,300.0,Thỏa thuận,"8,5 m",,,,10.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,1,0,1,0,1,0,0
 Hòa Mã,Ngô Thì Nhậm,Hai Bà Trưng,Nội thành,Tin thường,39091879,196.0,Thỏa thuận,"14,6 m",,,,1.0,,,,,Mặt phố,0,0,0,0,Nhỏ,1,0,0,1,0,0,0,0,0,0,0
 Phạm Văn Đồng,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,39223278,298.0,Thỏa thuận,17 m,,,,8.0,8.0,8.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
-Láng Hạ,Giảng Võ,Ba Đình,Ngoại thành,Tin thường,30284903,100.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,Nhỏ,1,0,0,1,0,0,0,0,0,0,0
+Láng Hạ,Giảng Võ,Ba Đình,Nội thành,Tin thường,30284903,100.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,Nhỏ,1,0,0,1,0,0,0,0,0,0,0
 Thi Sách,Ngô Thì Nhậm,Hai Bà Trưng,Nội thành,Tin thường,38946868,256.0,Thỏa thuận,"8,5 m",,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
-Quần Ngựa,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,36023591,81.0,Thỏa thuận,"4,5 m","17,5 m",,,4.0,6.0,6.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,1,,1,1,0,1,1,1,1,0,1,1,0
+Quần Ngựa,Liễu Giai,Ba Đình,Nội thành,Tin thường,36023591,81.0,Thỏa thuận,"4,5 m","17,5 m",,,4.0,6.0,6.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,1,,1,1,0,1,1,1,1,0,1,1,0
 Âu Cơ,Bưởi,Tây Hồ,Nội thành,Tin thường,39140981,225.0,Thỏa thuận,20 m,,,,,,,,,Mặt phố,0,0,0,0,,0,1,0,0,1,0,0,0,0,0,0
 Lý Thường Kiệt,Phan Chu Trinh,Hoàn Kiếm,Nội thành,Tin thường,39138004,208.0,Thỏa thuận,9 m,,,,11.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,1,1,0,0,0
 420,Bình Yên,Thạch Thất,Ngoại thành,Tin thường,39169444,157.0,Thỏa thuận,"5,41 m",18 m,Đông - Nam,Đông - Nam,2.0,5.0,2.0,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
@@ -2853,7 +2853,7 @@ Nam Ngư,Cửa Nam,Hoàn Kiếm,Nội thành,Tin thường,39210918,69.0,Thỏa 
 Hai Bà Trưng,,Hoàn Kiếm,Nội thành,Tin thường,32567292,350.0,Thỏa thuận,12 m,,,,13.0,,,Sổ đỏ/ Sổ hồng.,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Bà Triệu,Hàng Trống,Hoàn Kiếm,Nội thành,Tin thường,28800404,300.0,Thỏa thuận,,,,,,,,Có sổ,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
 ,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,39211098,130.0,Thỏa thuận,7 m,,,,7.0,,,,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
-Phan Kế Bính,Vĩnh Phúc,Ba Đình,Ngoại thành,Tin thường,37852682,150.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,0,1,0,0
+Phan Kế Bính,Vĩnh Phúc,Ba Đình,Nội thành,Tin thường,37852682,150.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,0,1,0,0
 Hàng Vải,Hàng Bồ,Hoàn Kiếm,Nội thành,Tin thường,38893266,43.0,Thỏa thuận,,,,,5.0,,,,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
 Bùi Thị Xuân,Bùi Thị Xuân,Hai Bà Trưng,Nội thành,Tin thường,28884458,110.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ.,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 Bà Triệu,Nguyễn Du,Hai Bà Trưng,Nội thành,Tin thường,39211234,24.0,Thỏa thuận,4 m,,,,3.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
@@ -2862,16 +2862,16 @@ Lạc Long Quân,Xuân La,Tây Hồ,Nội thành,Tin thường,39208146,90.0,Th�
 Tôn Đức Thắng,Hàng Bột,Đống Đa,Nội thành,Tin thường,39099111,125.0,Thỏa thuận,9 m,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Trần Thái Tông,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thường,39165046,400.0,Thỏa thuận,14 m,15 m,,,11.0,9.0,10.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,1,1,0,0
 Cầu Giấy,Dịch Vọng,Cầu Giấy,Nội thành,Tin thường,39137995,390.0,Thỏa thuận,14 m,,,,10.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,1,0,0,0
-Phạm Hồng Thái,Trúc Bạch,Ba Đình,Ngoại thành,Tin thường,39011870,192.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,1,0,0,1,0,0,0,1,0,0
-Bưởi,Vĩnh Phúc,Ba Đình,Ngoại thành,Tin thường,39118696,58.0,Thỏa thuận,"4,4 m",40 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,1,0,0,0,0
-Giảng Võ,Giảng Võ,Ba Đình,Ngoại thành,Tin thường,38372923,54.0,Thỏa thuận,"4,5 m",42 m,,,6.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,1,0,1,0,1,0,0
+Phạm Hồng Thái,Trúc Bạch,Ba Đình,Nội thành,Tin thường,39011870,192.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,1,0,0,1,0,0,0,1,0,0
+Bưởi,Vĩnh Phúc,Ba Đình,Nội thành,Tin thường,39118696,58.0,Thỏa thuận,"4,4 m",40 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,1,0,0,0,0
+Giảng Võ,Giảng Võ,Ba Đình,Nội thành,Tin thường,38372923,54.0,Thỏa thuận,"4,5 m",42 m,,,6.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,1,0,1,0,1,0,0
 Huế,Phố Huế,Hai Bà Trưng,Nội thành,Tin thường,37677891,250.0,Thỏa thuận,"9,5 m",,,,10.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,1,1,0,0
 ,Gia Thụy,Long Biên,Nội thành,Tin thường,39117064,120.0,Thỏa thuận,7 m,40 m,Đông - Nam,Đông - Nam,,,,,,Mặt phố,1,1,1,0,,0,1,0,0,0,0,0,0,0,0,1
 Triệu Việt Vương,Nguyễn Du,Hai Bà Trưng,Nội thành,Tin thường,39211558,46.0,Thỏa thuận,6 m,,,,6.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Thái Hà,Trung Liệt,Đống Đa,Nội thành,Tin thường,38808316,40.0,Thỏa thuận,,6 m,,,1.0,1.0,1.0,Sổ đỏ/ Sổ hồng,Không nội thất,Mặt phố,1,1,0,0,,1,0,0,0,0,0,0,0,0,0,1
 Bạch Mai,Bạch Mai,Hai Bà Trưng,Nội thành,Tin thường,39228189,209.0,Thỏa thuận,"7,02 m",12 m,Đông - Nam,Đông - Nam,7.0,,,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Hàng Bài,Hàng Bài,Hoàn Kiếm,Nội thành,Tin thường,37584042,550.0,Thỏa thuận,8 m,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
-Phó Đức Chính,Trúc Bạch,Ba Đình,Ngoại thành,Tin thường,39096836,136.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
+Phó Đức Chính,Trúc Bạch,Ba Đình,Nội thành,Tin thường,39096836,136.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
 Ngô Thì Nhậm,Ngô Thì Nhậm,Hai Bà Trưng,Nội thành,Tin thường,39225849,110.0,Thỏa thuận,,,,,4.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,1,0,0,1,0,0,0
 Nguyễn Văn Cừ,Bồ Đề,Long Biên,Nội thành,Tin thường,38370546,130.0,Thỏa thuận,7 m,,Đông - Nam,Đông - Nam,8.0,,,Sổ đỏ chính chủ,Đầy đủ nội thất cơ bản,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,1,0,0
 Trâu Quỳ,Trâu Quỳ,Gia Lâm,Ngoại thành,Tin thường,39182495,122.0,Thỏa thuận,,,,,6.0,,,,,Mặt phố,1,1,0,0,,0,0,0,0,0,0,0,0,1,0,0
@@ -2881,7 +2881,7 @@ Lý Thường Kiệt,Phú La,Hà Đông,Nội thành,Tin thường,39078572,45.0
 Cổ Linh,Thạch Bàn,Long Biên,Nội thành,Tin thường,39170677,65.0,Thỏa thuận,,,,,4.0,,,,,Mặt phố,0,0,0,0,,1,0,0,1,0,0,0,0,0,1,0
 Tây Sơn,Phùng,Đan Phượng,Ngoại thành,Tin thường,39166262,85.0,Thỏa thuận,4 m,10 m,,,3.0,3.0,3.0,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Lý Thường Kiệt,Hàng Bài,Hoàn Kiếm,Nội thành,Tin thường,38497589,650.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
-Châu Long,Trúc Bạch,Ba Đình,Ngoại thành,Tin thường,39161088,105.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,1,1,1,1,0,0,0,0
+Châu Long,Trúc Bạch,Ba Đình,Nội thành,Tin thường,39161088,105.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,1,1,1,1,0,0,0,0
 Chùa Láng,Láng Thượng,Đống Đa,Nội thành,Tin thường,39135639,117.0,Thỏa thuận,5 m,13 m,Tây - Nam,Tây - Nam,6.0,10.0,10.0,Sổ đỏ/ Sổ hồng,Không nội thất,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,1
 Hào Nam,Cát Linh,Đống Đa,Nội thành,Tin thường,39230275,125.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
 Trần Đại Nghĩa,Bách Khoa,Hai Bà Trưng,Nội thành,Tin thường,39111013,100.0,Thỏa thuận,6 m,25 m,,,4.0,5.0,6.0,"Đã có sổ đỏ, chờ giao dịch .",Nội thất cơ bản.,Mặt phố,0,0,0,0,,1,1,0,0,0,0,0,0,0,0,0
@@ -2902,7 +2902,7 @@ Thạch Bàn,Thạch Bàn,Long Biên,Nội thành,Tin thường,39227923,95.0,Th
 23B,Nam Hồng,Đông Anh,Ngoại thành,Tin thường,39069404,165.0,Thỏa thuận,"8,3 m",,,,3.0,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Nguyễn Chí Thanh,Láng Hạ,Đống Đa,Nội thành,Tin thường,38228943,40.0,Thỏa thuận,,,,,5.0,6.0,5.0,,,Mặt phố,0,0,0,0,,1,0,0,1,0,0,0,0,0,0,0
 Phạm Văn Đồng,Cổ Nhuế 1,Bắc Từ Liêm,Nội thành,Tin thường,39143112,150.0,Thỏa thuận,23 m,,,,7.0,,7.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,1,0,0,,0,0,0,0,0,0,1,0,1,1,0
-Hoàng Hoa Thám,Đội Cấn,Ba Đình,Ngoại thành,Tin thường,38976676,450.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,1,0,0,0,1,0,0,0,0,0,0
+Hoàng Hoa Thám,Đội Cấn,Ba Đình,Nội thành,Tin thường,38976676,450.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,1,0,0,0,1,0,0,0,0,0,0
 Tây Sơn,Quang Trung,Đống Đa,Nội thành,Tin thường,39203006,145.0,Thỏa thuận,5 m,40 m,,,4.0,4.0,6.0,Sổ đỏ/ Sổ hồng.,Đầy đủ.,Mặt phố,0,0,0,0,,0,1,0,1,0,0,0,0,0,0,0
 Nguyễn Khuyến,Văn Quán,Hà Đông,Nội thành,Tin thường,39064553,108.0,Thỏa thuận,,,,,4.0,6.0,5.0,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
 Trần Khát Chân,Đồng Nhân,Hai Bà Trưng,Nội thành,Tin thường,38909107,120.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,1,0,0,0,0,1
@@ -2923,7 +2923,7 @@ Nguyễn Hoàng,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,39219202
 Hàm Nghi,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,38214671,190.0,Thỏa thuận,,,,,5.0,6.0,5.0,,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,1,1,0
 Bùi Thị Xuân,Bùi Thị Xuân,Hai Bà Trưng,Nội thành,Tin thường,37671352,133.0,Thỏa thuận,"7,08 m",,,,11.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,1,0,0,0
 Tuệ Tĩnh,Bùi Thị Xuân,Hai Bà Trưng,Nội thành,Tin thường,38312084,60.0,Thỏa thuận,"7,1 m",,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
-Trúc Bạch,Trúc Bạch,Ba Đình,Ngoại thành,Tin thường,38019805,130.0,Thỏa thuận,"7,2 m",,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
+Trúc Bạch,Trúc Bạch,Ba Đình,Nội thành,Tin thường,38019805,130.0,Thỏa thuận,"7,2 m",,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,1,0,0,0
 Bát Đàn,Cửa Đông,Hoàn Kiếm,Nội thành,Tin thường,28799253,99.0,Thỏa thuận,,,,,,,,Sổ đỏ chính chủ,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Nguyễn Văn Cừ,Ngọc Lâm,Long Biên,Nội thành,Tin thường,38845600,131.0,Thỏa thuận,8 m,42 m,,,4.0,,,,,Mặt phố,0,0,0,0,,1,1,0,0,1,0,0,0,0,0,0
 Nguyễn Văn Lộc,Mỗ Lao,Hà Đông,Nội thành,Tin thường,39175863,55.0,Thỏa thuận,,,,,6.0,5.0,5.0,Sổ đỏ,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,1,0,1,0,0,0,1,0
@@ -2937,7 +2937,7 @@ Hoàng Ngân,Trung Hòa,Cầu Giấy,Nội thành,Tin thường,39138001,220.0,T
 Xuân La,Xuân La,Tây Hồ,Nội thành,Tin thường,38285170,120.0,Thỏa thuận,5 m,30 m,,,6.0,5.0,6.0,Sổ đỏ/ Sổ hồng,,Mặt phố,0,1,0,0,,0,0,0,0,0,0,0,0,1,0,1
 Mỗ Lao,Mỗ Lao,Hà Đông,Nội thành,Tin thường,39141385,101.0,Thỏa thuận,11 m,20 m,,,5.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,1,1,0,0
 Cầu Diễn,Phú Diễn,Bắc Từ Liêm,Nội thành,Tin thường,38890518,43.0,Thỏa thuận,"3,8 m",,,,5.0,,,,,Mặt phố,1,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
-Vạn Phúc,Kim Mã,Ba Đình,Ngoại thành,Tin thường,38686296,86.0,Thỏa thuận,"4,5 m",,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+Vạn Phúc,Kim Mã,Ba Đình,Nội thành,Tin thường,38686296,86.0,Thỏa thuận,"4,5 m",,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Dương Lâm,Văn Quán,Hà Đông,Nội thành,Tin thường,38840529,105.0,Thỏa thuận,,,,,4.0,,,,Đầy đủ,Mặt phố,1,1,0,0,,1,1,0,0,0,0,0,0,0,0,0
 Huế,Hàng Bài,Hoàn Kiếm,Nội thành,Tin thường,33624008,375.0,Thỏa thuận,,,,,,,,Sổ Đỏ Chính Chủ.,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,1,0,0,0
 Cổ Linh,Thạch Bàn,Long Biên,Nội thành,Tin thường,36893639,110.0,Thỏa thuận,"5,5 m",10 m,,,8.0,20.0,,Sổ đỏ/ Sổ hồng.,Đầy đủ.,Mặt phố,0,0,0,0,Nhỏ,1,0,0,0,0,0,0,0,0,0,0
@@ -2954,7 +2954,7 @@ Nguyễn Văn Cừ,Bồ Đề,Long Biên,Nội thành,Tin thường,38458524,65.
 Mã Mây,Hàng Bạc,Hoàn Kiếm,Nội thành,Tin thường,37730295,150.0,Thỏa thuận,"7,5 m",,,,9.0,35.0,35.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,Rộng,0,0,0,0,0,0,1,0,0,0,0
 Hai Bà Trưng,Trần Hưng Đạo,Hoàn Kiếm,Nội thành,Tin thường,38655650,500.0,Thỏa thuận,15 m,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,1,0,0,0,0,0,0,0,0,0
 68B  Hoàng Sâm,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,36659497,60.0,Thỏa thuận,5 m,10 m,,,6.0,6.0,6.0,,,Mặt phố,1,1,0,1,,0,0,0,0,1,1,0,0,0,0,0
-Nguyễn Công Hoan,Ngọc Khánh,Ba Đình,Ngoại thành,Tin thường,36709258,170.0,Thỏa thuận,18 m,15 m,,,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,1,0,0,0,1,1,0,0,0,1,0
+Nguyễn Công Hoan,Ngọc Khánh,Ba Đình,Nội thành,Tin thường,36709258,170.0,Thỏa thuận,18 m,15 m,,,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,1,0,0,0,1,1,0,0,0,1,0
 Nguyễn Thị Định,Trung Hòa,Cầu Giấy,Nội thành,Tin thường,38941056,55.0,Thỏa thuận,,,,,,,,,,Mặt phố,1,0,0,0,,0,0,0,0,0,0,1,0,0,0,0
 Đa Sỹ,Kiến Hưng,Hà Đông,Nội thành,Tin thường,39082591,50.0,Thỏa thuận,5 m,24 m,,,7.0,6.0,8.0,Sổ đỏ,,Mặt phố,1,1,0,0,Nhỏ,1,0,1,0,0,1,1,0,1,0,0
 Nguyễn Văn Cừ,Bồ Đề,Long Biên,Nội thành,Tin thường,39220857,45.0,Thỏa thuận,5 m,50 m,,,6.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Cơ bản.,Mặt phố,1,0,1,0,,0,0,0,1,1,0,0,0,1,0,0
@@ -2976,7 +2976,7 @@ Vũ Tông Phan,Khương Đình,Thanh Xuân,Nội thành,Tin thường,39223571,3
 Vạn Phúc,Vạn Phúc,Hà Đông,Nội thành,Tin thường,39162835,78.0,Thỏa thuận,5 m,20 m,,,9.0,6.0,9.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,1,0,0,0,1,0,1,0,0
 Nguyễn Văn Cừ,Ngọc Lâm,Long Biên,Nội thành,Tin thường,38785829,100.0,Thỏa thuận,"4,5 m",40 m,,,5.0,8.0,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,1,0,1,0,1
 ,Yên Phụ,Tây Hồ,Nội thành,Tin thường,38083804,200.0,Thỏa thuận,,,,,4.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,1,0,0,1,0,0,0,0,0,0
-Đào Tấn,Cống Vị,Ba Đình,Ngoại thành,Tin thường,15647593,110.0,Thỏa thuận,6 m,40 m,,,5.0,,,,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,1,1,0
+Đào Tấn,Cống Vị,Ba Đình,Nội thành,Tin thường,15647593,110.0,Thỏa thuận,6 m,40 m,,,5.0,,,,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,1,1,0
 Thụy Khuê,Thụy Khuê,Tây Hồ,Nội thành,Tin thường,38356230,235.0,Thỏa thuận,11 m,,,,1.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,1,1,0,0,0,0,0,0,0,0,0
 82  Chùa Láng,Láng Thượng,Đống Đa,Nội thành,Tin thường,39184120,124.0,Thỏa thuận,"5,1 m",,,,7.0,,,,,Mặt phố,1,0,0,0,,0,0,0,1,0,0,1,1,0,0,0
 ,Đức Thắng,Bắc Từ Liêm,Nội thành,Tin thường,38676260,31.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,0,0,0,,0,0,0,0,0,1,0,0,0,0,1
@@ -2984,11 +2984,11 @@ Võ Chí Công,Xuân La,Tây Hồ,Nội thành,Tin thường,37821477,230.0,Th�
 Hàng Trống,Hàng Trống,Hoàn Kiếm,Nội thành,Tin thường,28814364,160.0,Thỏa thuận,8 m,,,,12.0,,,Có sổ.,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,1,0,0,0,0
 Xã Đàn,Kim Liên,Đống Đa,Nội thành,Tin thường,38251859,130.0,Thỏa thuận,"7,8 m",,,,6.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,0,0,1,0,1,0,0
 Quang Trung,Quang Trung,Hà Đông,Nội thành,Tin thường,39178451,40.0,Thỏa thuận,,,,,3.0,3.0,3.0,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
-Hoàng Hoa Thám,Ngọc Hà,Ba Đình,Ngoại thành,Tin thường,38513608,68.0,Thỏa thuận,8 m,12 m,,,1.0,2.0,1.0,Sổ đỏ/ Sổ hồng,Nội thất cơ bản,Mặt phố,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
+Hoàng Hoa Thám,Ngọc Hà,Ba Đình,Nội thành,Tin thường,38513608,68.0,Thỏa thuận,8 m,12 m,,,1.0,2.0,1.0,Sổ đỏ/ Sổ hồng,Nội thất cơ bản,Mặt phố,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
 Nguyễn Hoàng,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,39182006,68.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
 Phan Chu Trinh,,Hoàn Kiếm,Nội thành,Tin thường,31487414,350.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng.,,Mặt phố,0,0,0,0,Nhỏ,0,0,0,0,1,0,0,0,0,0,0
 Lưu Hữu Phước,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,39159304,125.0,Thỏa thuận,6 m,,,,6.0,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,1,1,0,0
-Liễu Giai,Thành Công,Ba Đình,Ngoại thành,Tin VIP Bạc,39230167,135.0,Thỏa thuận,"12,6 m",9 m,,,5.0,4.0,5.0,,,Mặt phố,0,0,0,0,Rộng,0,0,0,0,0,0,0,1,0,0,0
+Liễu Giai,Thành Công,Ba Đình,Nội thành,Tin VIP Bạc,39230167,135.0,Thỏa thuận,"12,6 m",9 m,,,5.0,4.0,5.0,,,Mặt phố,0,0,0,0,Rộng,0,0,0,0,0,0,0,1,0,0,0
 ,Mai Dịch,Cầu Giấy,Nội thành,Tin thường,39192689,106.0,Thỏa thuận,,,,,,9.0,,Sổ đỏ/ Sổ hồng,,Mặt phố,1,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
 Trần Thái Tông,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thường,39154377,292.9,Thỏa thuận,"34,78 m",,,,8.0,3.0,8.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,1,0,0,1
 Tây Mỗ,Tây Mỗ,Nam Từ Liêm,Nội thành,Tin thường,39183027,350.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,Nhỏ,0,0,0,1,0,0,0,0,0,1,0
@@ -3022,7 +3022,7 @@ Thạch Bàn,Thạch Bàn,Long Biên,Nội thành,Tin thường,39217769,70.0,Th
 Nguyễn Chí Thanh,Láng Hạ,Đống Đa,Nội thành,Tin thường,39147011,40.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ,,Mặt phố,0,1,0,0,,1,0,0,1,0,0,0,0,0,0,0
 Chùa Láng,Láng Thượng,Đống Đa,Nội thành,Tin thường,39113427,124.0,Thỏa thuận,"5,1 m",14 m,Đông - Nam,,7.0,,,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,1,0,0,0
 ,Nghĩa Tân,Cầu Giấy,Nội thành,Tin thường,39214264,300.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Không nội thất,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
-,Ngọc Khánh,Ba Đình,Ngoại thành,Tin thường,39167283,110.0,Thỏa thuận,7 m,,,,7.0,,,,,Mặt phố,1,0,0,0,,0,0,0,1,1,0,1,0,0,0,0
+,Ngọc Khánh,Ba Đình,Nội thành,Tin thường,39167283,110.0,Thỏa thuận,7 m,,,,7.0,,,,,Mặt phố,1,0,0,0,,0,0,0,1,1,0,1,0,0,0,0
 Nguyễn Thị Định,Trung Hòa,Cầu Giấy,Nội thành,Tin thường,37339746,525.0,Thỏa thuận,16 m,15 m,,Đông - Nam,10.0,105.0,105.0,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,1,1,1,0,0
 Xuân Diệu,Quảng An,Tây Hồ,Nội thành,Tin thường,37993675,80.0,Thỏa thuận,6 m,20 m,,,6.0,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,0,1,0,0,0,0,0,0
 Nguyễn Du,Hàng Bài,Hoàn Kiếm,Nội thành,Tin thường,38918385,260.0,Thỏa thuận,8 m,,,,4.0,4.0,4.0,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,1,0,0,0,0
@@ -3089,9 +3089,9 @@ Xuân Diệu,Quảng An,Tây Hồ,Nội thành,Tin thường,39103011,246.0,Th�
 8  Trần Đăng Ninh,Dịch Vọng Hậu,Cầu Giấy,Nội thành,Tin thường,34124071,70.0,Thỏa thuận,6 m,,,,6.0,5.0,6.0,,Châu Âu.,Mặt phố,1,1,0,1,,1,0,0,0,0,0,0,0,1,0,1
 Nguyễn Hữu Huân,,Hoàn Kiếm,Nội thành,Tin thường,30285800,100.0,Thỏa thuận,,,,,6.0,,,Có sổ.,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0
 Nguyễn Xuân Khoát,Xuân Đỉnh,Bắc Từ Liêm,Nội thành,Tin thường,38466895,320.0,Thỏa thuận,16 m,,,,9.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
-Kim Mã,Kim Mã,Ba Đình,Ngoại thành,Tin thường,36959134,45.0,Thỏa thuận,"5,5 m",60 m,,,4.0,4.0,3.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,1,1,1,0,0,1,1,0,0,0,0
+Kim Mã,Kim Mã,Ba Đình,Nội thành,Tin thường,36959134,45.0,Thỏa thuận,"5,5 m",60 m,,,4.0,4.0,3.0,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,1,1,1,0,0,1,1,0,0,0,0
 Đỗ Đình Thiện,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,38832192,142.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,1,0,0,,1,1,0,0,0,0,0,0,0,0,0
-Trúc Bạch,Trúc Bạch,Ba Đình,Ngoại thành,Tin thường,38769834,100.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,1,0,0,0,1,0,0,0,0,1,0
+Trúc Bạch,Trúc Bạch,Ba Đình,Nội thành,Tin thường,38769834,100.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,1,0,0,0,1,0,0,0,0,1,0
 ,Ngọc Thụy,Long Biên,Nội thành,Tin thường,38974610,605.0,Thỏa thuận,,,,,4.0,,,Sổ đỏ/ Sổ hồng,Cơ bản,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
 Bùi Thị Xuân,,Hai Bà Trưng,Nội thành,Tin thường,30586038,135.0,Thỏa thuận,"7,5 m",,,,10.0,,,,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Xã Đàn,Phố  Đàn,Đống Đa,Nội thành,Tin thường,30609247,70.0,Thỏa thuận,5 m,,,,8.0,,,Sổ đỏ,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0
@@ -3110,18 +3110,18 @@ Hoàng Quốc Việt,Nghĩa Đô,Cầu Giấy,Nội thành,Tin thường,3825152
 Phan Chu Trinh,,Hoàn Kiếm,Nội thành,Tin thường,32613621,100.0,Thỏa thuận,5 m,,,,8.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Nguyễn Chánh,Trung Hòa,Cầu Giấy,Nội thành,Tin thường,37602326,180.0,Thỏa thuận,,,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,1,0,0,1,0,1,1,0
 phố Dốc Tam Đa,Bưởi,Tây Hồ,Nội thành,Tin thường,39161178,106.0,Thỏa thuận,4 m,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,1,0,0,,1,1,0,0,1,0,0,0,0,0,0
-Núi Trúc,Giảng Võ,Ba Đình,Ngoại thành,Tin thường,39142645,137.0,Thỏa thuận,,,,,3.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,0,0,0,,0,0,1,1,0,1,0,0,0,0,0
+Núi Trúc,Giảng Võ,Ba Đình,Nội thành,Tin thường,39142645,137.0,Thỏa thuận,,,,,3.0,4.0,4.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,0,0,0,,0,0,1,1,0,1,0,0,0,0,0
 Nguyễn Văn Cừ,Ngọc Lâm,Long Biên,Nội thành,Tin thường,39199544,130.0,Thỏa thuận,"7,5 m",,,,8.0,,,,,Mặt phố,1,0,0,0,Rộng,1,0,0,0,0,0,1,0,0,0,0
-Đào Tấn,Cống Vị,Ba Đình,Ngoại thành,Tin thường,39216014,89.0,Thỏa thuận,7 m,60 m,,,10.0,4.0,12.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,1,1,0,1,0,1,0,0
+Đào Tấn,Cống Vị,Ba Đình,Nội thành,Tin thường,39216014,89.0,Thỏa thuận,7 m,60 m,,,10.0,4.0,12.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,1,1,0,1,0,1,0,0
 Phúc Lợi,Phúc Lợi,Long Biên,Nội thành,Tin thường,39188568,200.0,Thỏa thuận,8 m,30 m,,,6.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
-Kim Mã,Kim Mã,Ba Đình,Ngoại thành,Tin thường,36992847,630.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,1,0,0,0
+Kim Mã,Kim Mã,Ba Đình,Nội thành,Tin thường,36992847,630.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,1,0,0,0,0,0,0,1,0,0,0
 Mai Hắc Đế,Bùi Thị Xuân,Hai Bà Trưng,Nội thành,Tin thường,39195752,170.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,1,0,0,0,0,0
 133,Ô Chợ Dừa,Đống Đa,Nội thành,Tin thường,34319072,175.0,Thỏa thuận,,,,,3.0,,,Có sổ.,,Mặt phố,0,1,0,0,,1,1,0,0,1,0,1,0,1,0,1
 Nguyễn Hoàng,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,39082273,68.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,1,0,0
 Quang Trung,La Khê,Hà Đông,Nội thành,Tin thường,39104641,40.0,Thỏa thuận,"3,3 m",60 m,,Tây - Bắc,4.0,5.0,4.0,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,Nhỏ,1,0,0,0,0,0,0,0,0,0,1
 Khương Trung,Khương Trung,Thanh Xuân,Nội thành,Tin thường,37836240,50.0,Thỏa thuận,4 m,12 m,,,3.0,3.0,3.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,1,1,0,0,Nhỏ,0,1,0,0,0,0,0,0,0,1,0
 Cù Chính Lan,Khương Mai,Thanh Xuân,Nội thành,Tin thường,38936497,64.0,Thỏa thuận,"4,2 m",6 m,,,5.0,5.0,5.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,1,0,0,1,1,1,0,0,0
-Liễu Giai,Liễu Giai,Ba Đình,Ngoại thành,Tin thường,38331713,400.0,Thỏa thuận,,,,,,,,,,Mặt phố,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
+Liễu Giai,Liễu Giai,Ba Đình,Nội thành,Tin thường,38331713,400.0,Thỏa thuận,,,,,,,,,,Mặt phố,1,0,0,0,,1,0,0,0,0,0,0,0,0,0,0
 Vạn Phúc,Vạn Phúc,Hà Đông,Nội thành,Tin thường,39205810,68.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,1,1,0,1,,1,0,0,0,0,1,0,0,0,0,0
 Bồ Đề,Bồ Đề,Long Biên,Nội thành,Tin thường,39043549,105.0,Thỏa thuận,,,,,6.0,6.0,5.0,,,Mặt phố,1,1,0,0,,0,0,1,0,1,0,1,1,1,0,0
 Lê Đức Thọ,Mỹ Đình 2,Nam Từ Liêm,Nội thành,Tin thường,39160953,33.0,Thỏa thuận,,,,,5.0,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,0,0,0
@@ -3129,7 +3129,7 @@ Lê Trọng Tấn,Khương Mai,Thanh Xuân,Nội thành,Tin thường,35457212,2
 Vệ Hồ,Xuân La,Tây Hồ,Nội thành,Tin thường,39202721,130.0,Thỏa thuận,"5,5 m",,,,,,,,,Mặt phố,0,0,0,0,,0,0,0,0,1,0,0,0,1,0,1
 Mai Hắc Đế,Bùi Thị Xuân,Hai Bà Trưng,Nội thành,Tin thường,39205025,100.0,Thỏa thuận,,,,,8.0,,,,,Mặt phố,0,0,0,0,Nhỏ,0,0,0,0,0,0,0,0,1,0,0
 Vọng,Đồng Tâm,Hai Bà Trưng,Nội thành,Tin thường,39154564,100.0,Thỏa thuận,"6,4 m",,,,9.0,3.0,8.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,1,0,0,0
-Hàng Bún,Nguyễn Trung Trực,Ba Đình,Ngoại thành,Tin thường,38960454,105.0,Thỏa thuận,"7,5 m",,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,Nhỏ,1,0,0,0,1,0,0,0,0,0,0
+Hàng Bún,Nguyễn Trung Trực,Ba Đình,Nội thành,Tin thường,38960454,105.0,Thỏa thuận,"7,5 m",,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,Nhỏ,1,0,0,0,1,0,0,0,0,0,0
 Keo,Kim Sơn,Gia Lâm,Ngoại thành,Tin thường,39176231,135.0,Thỏa thuận,,,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,1,1,0,0,,0,1,0,0,0,0,0,0,0,0,1
 Tuệ Tĩnh,Nguyễn Du,Hai Bà Trưng,Nội thành,Tin thường,37183061,60.0,Thỏa thuận,"7,1 m",,,,,,,Sổ đỏ/ Sổ hồng,,Mặt phố,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
 Mỹ Đình,Mỹ Đình 1,Nam Từ Liêm,Nội thành,Tin thường,39227565,255.0,Thỏa thuận,,,,,6.0,4.0,6.0,Sổ đỏ/ Sổ hồng,Đầy đủ,Mặt phố,0,0,0,0,,1,0,0,1,0,0,0,0,0,1,0
