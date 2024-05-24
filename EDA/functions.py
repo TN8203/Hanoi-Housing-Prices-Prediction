@@ -166,3 +166,11 @@ def plot_numerical_variables(df, column_name, figsize = (20,8), hist_plot = True
 
     plt.show()    
 
+def plot_with_title(data_subset, title, figsize=(10, 6)):
+    plt.figure(figsize=(10, 1))
+    plt.text(0.5, 0.5, title, ha='center', va='center', fontsize=16, weight='bold')
+    plt.axis('off')
+    plt.show()
+    
+    plot_numerical_variables(data_subset, 'Mức giá', figsize=figsize)
+    plt.show()
