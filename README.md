@@ -4,7 +4,7 @@ Hanoi Housing Prices Prediction
 ## Overview
 "Hanoi Housing Price Prediction" project aims to use machine learning to forecast real estate prices in Hanoi, providing insights into influential factors and developing a user-friendly tool for decision-making. It involves data collection, preprocessing, model building, and deployment using Python and relevant libraries, with the goal of delivering accurate predictions and enhancing understanding of the Hanoi real estate market.
 
-## Four-steps:
+## Five-steps:
 1. **Data Collection**
 2. **Data Preprocessing**
 3. **EDA**
